@@ -35,7 +35,7 @@
         "text_align": "vertical-center horizontal-center",
         "link": "",
         "slide_speed": 5,
-        "color_overlay": "#000",
+        "color_overlay": "#000000",
         "color_overlay_opacity": 30,
         "desktop_height": "650px",
         "mobile_height": "auto"
@@ -47,6 +47,12 @@
         "price_JrbMeh": {
           "type": "price",
           "settings": {}
+        },
+        "custom_YVE3MM": {
+          "type": "custom",
+          "settings": {
+            "code": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">Smooth in Seconds</span> – Quickly tame flyaways and frizz for a neat, put-together look anytime you need it.<br><br>\n\n<span style=\"font-weight: bold;\">Adjustable Heat Control</span> – Three temperature settings let you choose what works best for your hair type.<br><br>\n\n<span style=\"font-weight: bold;\">Shiny, Polished Results</span> – Leaves your hair looking soft, sleek, and naturally glossy without heavy styling.\n\n</div>"
+          }
         },
         "separator_4Um8dF": {
           "type": "separator",
@@ -70,6 +76,7 @@
       },
       "block_order": [
         "price_JrbMeh",
+        "custom_YVE3MM",
         "separator_4Um8dF",
         "variant_picker_agpVBi",
         "buy_buttons_bKbLAc"
@@ -196,7 +203,7 @@
         "title": "",
         "align_text": "center",
         "desktop_columns_per_row": 3,
-        "icon_color": "#000",
+        "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
         "divider": false
