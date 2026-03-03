@@ -73,22 +73,23 @@
         "max_width": true
       }
     },
-    "background-image-text": {
-      "type": "background-image-text",
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
       "settings": {
-        "subtitle": "Impressive",
-        "title": "Large image with text box",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
-        "button_label": "",
-        "button_link": "",
-        "focal_point": "center",
-        "layout": "left",
-        "height": 550,
-        "parallax": false
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
       }
     },
-    "text-and-image": {
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "text_and_image_qRNhCe": {
       "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image_width": 700,
         "subtitle": "",
@@ -102,8 +103,40 @@
         "divider": false
       }
     },
-    "text-and-image2": {
+    "1772537693c7b1a21e": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_3908ddc_6wNLYg": {
+          "type": "ai_gen_block_3908ddc",
+          "settings": {
+            "text_1": "Free shipping on orders over $50",
+            "text_2": "New arrivals every week",
+            "text_3": "Shop the latest trends",
+            "text_4": "",
+            "text_5": "",
+            "separator": "★",
+            "scroll_speed": 1,
+            "direction": "left",
+            "background_color": "#111111",
+            "text_color": "#ffffff",
+            "separator_color": "#ffffff",
+            "font_size": 18,
+            "font_weight": "500",
+            "text_transform": false,
+            "padding_vertical": 16,
+            "item_spacing": 40
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_3908ddc_6wNLYg"
+      ],
+      "settings": {}
+    },
+    "text_and_image_YRGa6x": {
       "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image_width": 700,
         "subtitle": "",
@@ -113,74 +146,50 @@
         "button_link": "",
         "button_style": "primary",
         "align_text": "left",
-        "layout": "left",
+        "layout": "right",
         "divider": false
       }
     },
-    "testimonials": {
-      "type": "testimonials",
+    "blocks_3z3p7R": {
+      "type": "_blocks",
       "blocks": {
-        "testimonials-0": {
-          "type": "testimonial",
+        "ai_gen_block_3908ddc_rdrzgT": {
+          "type": "ai_gen_block_3908ddc",
           "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author name",
-            "author_info": "Los Angeles, CA"
-          }
-        },
-        "testimonials-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author name",
-            "author_info": "Los Angeles, CA"
-          }
-        },
-        "testimonials-2": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author name",
-            "author_info": "Los Angeles, CA"
-          }
+            "text_1": "Free shipping on orders over $50",
+            "text_2": "New arrivals every week",
+            "text_3": "Shop the latest trends",
+            "text_4": "",
+            "text_5": "",
+            "separator": "★",
+            "scroll_speed": 1,
+            "direction": "left",
+            "background_color": "#111111",
+            "text_color": "#ffffff",
+            "separator_color": "#ffffff",
+            "font_size": 18,
+            "font_weight": "500",
+            "text_transform": false,
+            "padding_vertical": 16,
+            "item_spacing": 40
+          },
+          "blocks": {}
         }
       },
       "block_order": [
-        "testimonials-0",
-        "testimonials-1",
-        "testimonials-2"
+        "ai_gen_block_3908ddc_rdrzgT"
       ],
-      "settings": {
-        "title": "Don't take our word for it",
-        "round_images": true,
-        "color_background": "#f9f9f9",
-        "color_text": "#1c1d1d"
-      }
-    },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "show_product_recommendations": true,
-        "product_recommendations_heading": "You may also like",
-        "related_count": 5
-      }
-    },
-    "collection-return": {
-      "type": "collection-return",
       "settings": {}
     }
   },
   "order": [
     "main",
     "sub",
-    "background-image-text",
-    "text-and-image",
-    "text-and-image2",
-    "testimonials",
     "product-recommendations",
-    "collection-return"
+    "collection-return",
+    "text_and_image_qRNhCe",
+    "1772537693c7b1a21e",
+    "text_and_image_YRGa6x",
+    "blocks_3z3p7R"
   ]
 }
