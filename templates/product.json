@@ -87,6 +87,83 @@
       "disabled": true,
       "settings": {}
     },
+    "hooo_LQGzgx": {
+      "type": "hooo",
+      "blocks": {
+        "slide_D7TNiz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Le_Journal_Des_Femmes_300x300_87025a43-adc1-42bd-8fb4-359ca60b0018.png",
+            "link": ""
+          }
+        },
+        "slide_aH8D8X": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/stella_magazines_300x300_d3660840-45fb-4fcf-875c-50b4e4d7b85c.png",
+            "link": ""
+          }
+        },
+        "slide_UEYnmi": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Sephora_Logo_300x300_ce912df1-3737-4474-8d32-1ae9980a01d0.png",
+            "link": ""
+          }
+        },
+        "slide_cWG4KL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/l_orient_le_jour_300x300_d6bf8c7a-f1cd-4f7c-8d4c-6a52075d763a.png",
+            "link": ""
+          }
+        },
+        "slide_8irHji": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/new_york_times_logo_300x300_413e620a-38db-464f-b1dd-3d4ec6dfda43.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_D7TNiz",
+        "slide_aH8D8X",
+        "slide_UEYnmi",
+        "slide_cWG4KL",
+        "slide_8irHji"
+      ],
+      "name": "SS - Scrolling Logo Cloud",
+      "settings": {
+        "ss-title": "As Seen On",
+        "heading_custom": false,
+        "heading_font": "assistant_n4",
+        "header_size": 30,
+        "header_align": "center",
+        "scrolling_velocity": 10,
+        "pause_hover": false,
+        "shadow": false,
+        "sliders_mt": 16,
+        "logo_padding_top": 0,
+        "logo_padding_bottom": 0,
+        "slider_gap": 30,
+        "slider_gap_mobile": 30,
+        "slider_direction": "left",
+        "icon_width": 200,
+        "header_color": "#121212",
+        "border_color": "#ffffff",
+        "background-color": "#ffffff",
+        "slider-background-color": "#ffffff",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
     "text_and_image_qRNhCe": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -187,6 +264,7 @@
     "sub",
     "product-recommendations",
     "collection-return",
+    "hooo_LQGzgx",
     "text_and_image_qRNhCe",
     "1772537693c7b1a21e",
     "text_and_image_YRGa6x",

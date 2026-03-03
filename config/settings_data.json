@@ -114,14 +114,6 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "1494301487049": {
-            "type": "menu",
-            "settings": {
-              "show_footer_title": true,
-              "menu": "footer",
-              "container_width": 20
-            }
-          },
           "1494292485313": {
             "type": "menu",
             "settings": {
@@ -148,7 +140,6 @@
           }
         },
         "block_order": [
-          "1494301487049",
           "1494292485313",
           "1494292487693",
           "1494292481350"
