@@ -25,7 +25,7 @@
         "custom_Ytf84X": {
           "type": "custom",
           "settings": {
-            "code": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">Smooth in Seconds</span> – Quickly tame flyaways and frizz for a neat, put-together look anytime you need it.<br><br>\n\n<span style=\"font-weight: bold;\">Adjustable Heat Control</span> – Three temperature settings let you choose what works best for your hair type.<br><br>\n\n<span style=\"font-weight: bold;\">Shiny, Polished Results</span> – Leaves your hair looking soft, sleek, and naturally glossy without heavy styling.\n\n</div>"
+            "code": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">🙆‍♀️ Lightweight & Travel-Friendly</span> – Sleek, compact and designed to fit easily in your bag. Perfect for touch-ups on the go!<br><br>\n\n<span style=\"font-weight: bold;\">⚡ Fast Heating with 3 Adjustable Modes</span> – Choose from <strong>55°C, 65°C, or 75°C</strong> for effortless styling suited to your hair type.<br><br>\n\n<span style=\"font-weight: bold;\">🔋 Powerful 1500mAh Battery</span> – Enjoy up to <strong>90 minutes of use after just 80 minutes of charging</strong> — no cords, no limits.<br><br>\n\n<span style=\"font-weight: bold;\">🌸 Ceramic-Coated Plates</span> – Glide smoothly through your hair for a silky, frizz-free finish every time.<br><br>\n\n<span style=\"font-weight: bold;\">💧 IPX7 Waterproof Design</span> – Built for durability and easy maintenance, giving you worry-free styling anywhere.<br><br>\n\n<span style=\"font-weight: bold;\">🔌 Type-C Charging</span> – Universal, fast, and convenient — the same cable as your phone.\n\n</div>"
           }
         },
         "separator": {
@@ -105,7 +105,7 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/WhatsApp_Image_2026-03-03_at_12.10.04_1.jpg",
+        "image": "shopify://shop_images/123123.jpg",
         "image_width": 700,
         "subtitle": "",
         "title": "Effortless Styling",
@@ -153,7 +153,7 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/WhatsApp_Image_2026-03-03_at_12.10.04.jpg",
+        "image": "shopify://shop_images/21.jpg",
         "image_width": 700,
         "subtitle": "",
         "title": "Small Size, Big Results",
@@ -317,6 +317,27 @@
         "title": "FAQs"
       }
     },
+    "1772548012e975415b": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_twzQ3D": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_twzQ3D"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "text_with_icons_cDxdFz": {
       "type": "text-with-icons",
       "blocks": {
@@ -355,7 +376,7 @@
         "title": "",
         "align_text": "center",
         "desktop_columns_per_row": 3,
-        "icon_color": "#000",
+        "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
         "divider": false
@@ -373,6 +394,7 @@
     "blocks_3z3p7R",
     "hooo_EhLkRF",
     "faq_Rhg6PN",
+    "1772548012e975415b",
     "text_with_icons_cDxdFz"
   ]
 }

@@ -57,7 +57,7 @@
         "custom_YVE3MM": {
           "type": "custom",
           "settings": {
-            "code": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">Smooth in Seconds</span> – Quickly tame flyaways and frizz for a neat, put-together look anytime you need it.<br><br>\n\n<span style=\"font-weight: bold;\">Adjustable Heat Control</span> – Three temperature settings let you choose what works best for your hair type.<br><br>\n\n<span style=\"font-weight: bold;\">Shiny, Polished Results</span> – Leaves your hair looking soft, sleek, and naturally glossy without heavy styling.\n\n</div>"
+            "code": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">🙆‍♀️ Lightweight & Travel-Friendly</span> – Sleek, compact and designed to fit easily in your bag. Perfect for touch-ups on the go!<br><br>\n\n<span style=\"font-weight: bold;\">⚡ Fast Heating with 3 Adjustable Modes</span> – Choose from <strong>55°C, 65°C, or 75°C</strong> for effortless styling suited to your hair type.<br><br>\n\n<span style=\"font-weight: bold;\">🔋 Powerful 1500mAh Battery</span> – Enjoy up to <strong>90 minutes of use after just 80 minutes of charging</strong> — no cords, no limits.<br><br>\n\n<span style=\"font-weight: bold;\">🌸 Ceramic-Coated Plates</span> – Glide smoothly through your hair for a silky, frizz-free finish every time.<br><br>\n\n<span style=\"font-weight: bold;\">💧 IPX7 Waterproof Design</span> – Built for durability and easy maintenance, giving you worry-free styling anywhere.<br><br>\n\n<span style=\"font-weight: bold;\">🔌 Type-C Charging</span> – Universal, fast, and convenient — the same cable as your phone.\n\n</div>"
           }
         },
         "separator_4Um8dF": {
@@ -133,6 +133,34 @@
       "name": "Marquee",
       "settings": {}
     },
+    "rich_text_icmLMW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dPbm6N": {
+          "type": "heading",
+          "settings": {
+            "title": "At Solva"
+          }
+        },
+        "text_GPW9qx": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>we believe beauty should be simple, smart, and effortless. Our mission is to create innovative, high-quality styling tools that fit seamlessly into your everyday life. Designed with convenience, performance, and style in mind, Solva products help you look and feel your best—anytime, anywhere.</p><p>We focus on compact, reliable solutions that deliver salon-like results without the hassle. With Solva, beauty is made easy.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dPbm6N",
+        "text_GPW9qx"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "blocks_AAEAd4": {
       "type": "_blocks",
       "blocks": {
@@ -164,34 +192,6 @@
       ],
       "name": "Marquee",
       "settings": {}
-    },
-    "rich_text_icmLMW": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_dPbm6N": {
-          "type": "heading",
-          "settings": {
-            "title": "At Solva"
-          }
-        },
-        "text_GPW9qx": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>we believe beauty should be simple, smart, and effortless. Our mission is to create innovative, high-quality styling tools that fit seamlessly into your everyday life. Designed with convenience, performance, and style in mind, Solva products help you look and feel your best—anytime, anywhere.</p><p>We focus on compact, reliable solutions that deliver salon-like results without the hassle. With Solva, beauty is made easy.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_dPbm6N",
-        "text_GPW9qx"
-      ],
-      "name": "t:sections.rich-text.presets.rich_text.name",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
     },
     "faq_hd9KM6": {
       "type": "faq",
