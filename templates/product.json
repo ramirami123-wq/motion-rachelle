@@ -12,9 +12,21 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "custom_Q7AhEC": {
+          "type": "custom",
+          "settings": {
+            "code": "<style>\n.star-review-wrapper {\ndisplay: flex;\nalign-items: center;\ngap: 8px;\nflex-shrink: 0;\n}\n\n.star-icons svg {\nwidth: 20px;\nheight: 20px;\nfill: black; /* Your deep red color */\n}\n\n.review-text {\nfont-size: 16px;\nfont-weight: 500;\ncolor: #333;\nwhite-space: nowrap;\n}\n\n@media (max-width: 480px) {\n.star-review-wrapper {\nflex-direction: row;\njustify-content: center;\n}\n\n```\n.review-text {\n  font-size: 15px;\n}\n```\n\n}\n</style>\n\n<div class=\"star-review-wrapper\">\n<div class=\"star-icons\">\n<!-- 5 Rounded Stars -->\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"/></svg>\n</div>\n<div class=\"review-text\">\n<strong>5</strong> by <strong>124+</strong> Customers\n</div>\n</div>"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {}
+        },
+        "custom_Ytf84X": {
+          "type": "custom",
+          "settings": {
+            "code": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">Smooth in Seconds</span> – Quickly tame flyaways and frizz for a neat, put-together look anytime you need it.<br><br>\n\n<span style=\"font-weight: bold;\">Adjustable Heat Control</span> – Three temperature settings let you choose what works best for your hair type.<br><br>\n\n<span style=\"font-weight: bold;\">Shiny, Polished Results</span> – Leaves your hair looking soft, sleek, and naturally glossy without heavy styling.\n\n</div>"
+          }
         },
         "separator": {
           "type": "separator",
@@ -49,7 +61,9 @@
         }
       },
       "block_order": [
+        "custom_Q7AhEC",
         "price",
+        "custom_Ytf84X",
         "separator",
         "variant_picker",
         "buy_buttons",
@@ -87,55 +101,151 @@
       "disabled": true,
       "settings": {}
     },
-    "hooo_LQGzgx": {
+    "text_and_image_qRNhCe": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/WhatsApp_Image_2026-03-03_at_12.10.04_1.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Effortless Styling",
+        "text": "<p><br/>Get smooth, neat hair in minutes with a compact tool designed for quick daily touch-ups.<br/><br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1772537693c7b1a21e": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_3908ddc_6wNLYg": {
+          "type": "ai_gen_block_3908ddc",
+          "settings": {
+            "text_1": "Delivery ALL OVER LEBANON",
+            "text_2": "Delivery ALL OVER LEBANON",
+            "text_3": "Delivery ALL OVER LEBANON",
+            "text_4": "",
+            "text_5": "",
+            "separator": "★",
+            "scroll_speed": 1,
+            "direction": "left",
+            "background_color": "#111111",
+            "text_color": "#ffffff",
+            "separator_color": "#ffffff",
+            "font_size": 18,
+            "font_weight": "500",
+            "text_transform": false,
+            "padding_vertical": 16,
+            "item_spacing": 40
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_3908ddc_6wNLYg"
+      ],
+      "settings": {}
+    },
+    "text_and_image_YRGa6x": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/WhatsApp_Image_2026-03-03_at_12.10.04.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Small Size, Big Results",
+        "text": "<p>A lightweight design that delivers sleek, polished hair without the hassle.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "blocks_3z3p7R": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_3908ddc_rdrzgT": {
+          "type": "ai_gen_block_3908ddc",
+          "settings": {
+            "text_1": "Smooth hair. Zero stress.",
+            "text_2": "Smooth hair. Zero stress.",
+            "text_3": "Smooth hair. Zero stress.",
+            "text_4": "",
+            "text_5": "",
+            "separator": "★",
+            "scroll_speed": 1,
+            "direction": "left",
+            "background_color": "#111111",
+            "text_color": "#ffffff",
+            "separator_color": "#ffffff",
+            "font_size": 18,
+            "font_weight": "500",
+            "text_transform": false,
+            "padding_vertical": 16,
+            "item_spacing": 40
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_3908ddc_rdrzgT"
+      ],
+      "settings": {}
+    },
+    "hooo_EhLkRF": {
       "type": "hooo",
       "blocks": {
-        "slide_D7TNiz": {
+        "slide_BRh4xh": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Le_Journal_Des_Femmes_300x300_87025a43-adc1-42bd-8fb4-359ca60b0018.png",
+            "image": "shopify://shop_images/new_york_times_logo_300x300_413e620a-38db-464f-b1dd-3d4ec6dfda43.png",
             "link": ""
           }
         },
-        "slide_aH8D8X": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/stella_magazines_300x300_d3660840-45fb-4fcf-875c-50b4e4d7b85c.png",
-            "link": ""
-          }
-        },
-        "slide_UEYnmi": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Sephora_Logo_300x300_ce912df1-3737-4474-8d32-1ae9980a01d0.png",
-            "link": ""
-          }
-        },
-        "slide_cWG4KL": {
+        "slide_CdKiAJ": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/l_orient_le_jour_300x300_d6bf8c7a-f1cd-4f7c-8d4c-6a52075d763a.png",
             "link": ""
           }
         },
-        "slide_8irHji": {
+        "slide_Cet9rX": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/new_york_times_logo_300x300_413e620a-38db-464f-b1dd-3d4ec6dfda43.png",
+            "image": "shopify://shop_images/Sephora_Logo_300x300_ce912df1-3737-4474-8d32-1ae9980a01d0.png",
+            "link": ""
+          }
+        },
+        "slide_BPDcKP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/stella_magazines_300x300_d3660840-45fb-4fcf-875c-50b4e4d7b85c.png",
+            "link": ""
+          }
+        },
+        "slide_JfX9Fx": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Le_Journal_Des_Femmes_300x300_87025a43-adc1-42bd-8fb4-359ca60b0018.png",
             "link": ""
           }
         }
       },
       "block_order": [
-        "slide_D7TNiz",
-        "slide_aH8D8X",
-        "slide_UEYnmi",
-        "slide_cWG4KL",
-        "slide_8irHji"
+        "slide_BRh4xh",
+        "slide_CdKiAJ",
+        "slide_Cet9rX",
+        "slide_BPDcKP",
+        "slide_JfX9Fx"
       ],
       "name": "SS - Scrolling Logo Cloud",
       "settings": {
-        "ss-title": "As Seen On",
+        "ss-title": "Trusted by",
         "heading_custom": false,
         "heading_font": "assistant_n4",
         "header_size": 30,
@@ -164,99 +274,92 @@
         "lazy": true
       }
     },
-    "text_and_image_qRNhCe": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
-    },
-    "1772537693c7b1a21e": {
-      "type": "_blocks",
+    "faq_Rhg6PN": {
+      "type": "faq",
       "blocks": {
-        "ai_gen_block_3908ddc_6wNLYg": {
-          "type": "ai_gen_block_3908ddc",
+        "question_A4WHBe": {
+          "type": "question",
           "settings": {
-            "text_1": "Free shipping on orders over $50",
-            "text_2": "New arrivals every week",
-            "text_3": "Shop the latest trends",
-            "text_4": "",
-            "text_5": "",
-            "separator": "★",
-            "scroll_speed": 1,
-            "direction": "left",
-            "background_color": "#111111",
-            "text_color": "#ffffff",
-            "separator_color": "#ffffff",
-            "font_size": 18,
-            "font_weight": "500",
-            "text_transform": false,
-            "padding_vertical": 16,
-            "item_spacing": 40
-          },
-          "blocks": {}
+            "title": "How do I use the Solva Mini Hair Straightener Brush?",
+            "text": "<p>Simply plug in the device, select your preferred heat level, wait for it to heat up, and gently brush through dry hair section by section.</p>"
+          }
+        },
+        "question_gPiKbW": {
+          "type": "question",
+          "settings": {
+            "title": "Does it work for thick or curly hair?",
+            "text": "<p>Yes, the adjustable heat settings make it suitable for fine, normal, and thick hair types. For very curly hair, you may need to brush slowly through smaller sections.</p>"
+          }
+        },
+        "question_U4BcYJ": {
+          "type": "question",
+          "settings": {
+            "title": "Is it safe for daily use?",
+            "text": "<p>Yes, when used properly and with appropriate heat settings, it is safe for regular styling.</p>"
+          }
+        },
+        "question_t9t4B3": {
+          "type": "question",
+          "settings": {
+            "title": "Does it reduce frizz?",
+            "text": "<p>Yes, it helps smooth flyaways and control frizz, leaving your hair looking sleek and polished.</p>"
+          }
         }
       },
       "block_order": [
-        "ai_gen_block_3908ddc_6wNLYg"
+        "question_A4WHBe",
+        "question_gPiKbW",
+        "question_U4BcYJ",
+        "question_t9t4B3"
       ],
-      "settings": {}
-    },
-    "text_and_image_YRGa6x": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "name": "t:sections.faq.presets.faq.name",
       "settings": {
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
+        "title": "FAQs"
       }
     },
-    "blocks_3z3p7R": {
-      "type": "_blocks",
+    "text_with_icons_cDxdFz": {
+      "type": "text-with-icons",
       "blocks": {
-        "ai_gen_block_3908ddc_rdrzgT": {
-          "type": "ai_gen_block_3908ddc",
+        "text_block_L7WRGr": {
+          "type": "text_block",
           "settings": {
-            "text_1": "Free shipping on orders over $50",
-            "text_2": "New arrivals every week",
-            "text_3": "Shop the latest trends",
-            "text_4": "",
-            "text_5": "",
-            "separator": "★",
-            "scroll_speed": 1,
-            "direction": "left",
-            "background_color": "#111111",
-            "text_color": "#ffffff",
-            "separator_color": "#ffffff",
-            "font_size": 18,
-            "font_weight": "500",
-            "text_transform": false,
-            "padding_vertical": 16,
-            "item_spacing": 40
-          },
-          "blocks": {}
+            "icon": "truck",
+            "title": "Delivery All Over Lebanon",
+            "text": ""
+          }
+        },
+        "text_block_xB7xiA": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "24/7 Support",
+            "text": ""
+          }
+        },
+        "text_block_3zJHiQ": {
+          "type": "text_block",
+          "settings": {
+            "icon": "sales-tag",
+            "title": "100% Safe",
+            "text": ""
+          }
         }
       },
       "block_order": [
-        "ai_gen_block_3908ddc_rdrzgT"
+        "text_block_L7WRGr",
+        "text_block_xB7xiA",
+        "text_block_3zJHiQ"
       ],
-      "settings": {}
+      "name": "Text columns with icons",
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -264,10 +367,12 @@
     "sub",
     "product-recommendations",
     "collection-return",
-    "hooo_LQGzgx",
     "text_and_image_qRNhCe",
     "1772537693c7b1a21e",
     "text_and_image_YRGa6x",
-    "blocks_3z3p7R"
+    "blocks_3z3p7R",
+    "hooo_EhLkRF",
+    "faq_Rhg6PN",
+    "text_with_icons_cDxdFz"
   ]
 }

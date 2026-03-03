@@ -44,6 +44,12 @@
     "featured_product_PEkt3B": {
       "type": "featured-product",
       "blocks": {
+        "custom_GCxmbw": {
+          "type": "custom",
+          "settings": {
+            "code": ""
+          }
+        },
         "price_JrbMeh": {
           "type": "price",
           "settings": {}
@@ -75,6 +81,7 @@
         }
       },
       "block_order": [
+        "custom_GCxmbw",
         "price_JrbMeh",
         "custom_YVE3MM",
         "separator_4Um8dF",
@@ -93,6 +100,70 @@
         "enable_video_looping": true,
         "product_video_style": "muted"
       }
+    },
+    "blocks_R7BnNx": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_3908ddc_XEX9Ba": {
+          "type": "ai_gen_block_3908ddc",
+          "settings": {
+            "text_1": "solva",
+            "text_2": "solva",
+            "text_3": "solva",
+            "text_4": "",
+            "text_5": "",
+            "separator": "★",
+            "scroll_speed": 1,
+            "direction": "left",
+            "background_color": "#111111",
+            "text_color": "#ffffff",
+            "separator_color": "#ffffff",
+            "font_size": 18,
+            "font_weight": "500",
+            "text_transform": false,
+            "padding_vertical": 16,
+            "item_spacing": 40
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_3908ddc_XEX9Ba"
+      ],
+      "name": "Marquee",
+      "settings": {}
+    },
+    "blocks_AAEAd4": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_3908ddc_HUMMjT": {
+          "type": "ai_gen_block_3908ddc",
+          "settings": {
+            "text_1": "solva",
+            "text_2": "solva",
+            "text_3": "solva",
+            "text_4": "",
+            "text_5": "",
+            "separator": "★",
+            "scroll_speed": 1,
+            "direction": "left",
+            "background_color": "#111111",
+            "text_color": "#ffffff",
+            "separator_color": "#ffffff",
+            "font_size": 18,
+            "font_weight": "500",
+            "text_transform": false,
+            "padding_vertical": 16,
+            "item_spacing": 40
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_3908ddc_HUMMjT"
+      ],
+      "name": "Marquee",
+      "settings": {}
     },
     "rich_text_icmLMW": {
       "type": "rich-text",
@@ -213,7 +284,9 @@
   "order": [
     "fading_images_rkrYWH",
     "featured_product_PEkt3B",
+    "blocks_R7BnNx",
     "rich_text_icmLMW",
+    "blocks_AAEAd4",
     "faq_hd9KM6",
     "text_with_icons_jYRQxY"
   ]
