@@ -9,19 +9,82 @@
  */
 {
   "sections": {
-    "hero-video": {
-      "type": "hero-video",
+    "fading_images_rkrYWH": {
+      "type": "fading-images",
+      "blocks": {
+        "image_ahW8kb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2026-03-03_at_12.08.04_1_0e27046a-7579-445c-8afb-3b5d279303fd.jpg",
+            "focal_point": "center center",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_ahW8kb"
+      ],
+      "name": "t:sections.fading-images.presets.fading_image_hero.name",
       "settings": {
-        "title": "Bring your\nbrand to life.",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "Watch",
-        "link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "title_lines": "1",
+        "title_font": "heading",
+        "title_size": 45,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "overlay_opacity": 0,
-        "section_height": "650px",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "650px",
         "mobile_height": "auto"
+      }
+    },
+    "featured_product_PEkt3B": {
+      "type": "featured-product",
+      "blocks": {
+        "price_JrbMeh": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator_4Um8dF": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker_agpVBi": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_bKbLAc": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_JrbMeh",
+        "separator_4Um8dF",
+        "variant_picker_agpVBi",
+        "buy_buttons_bKbLAc"
+      ],
+      "name": "t:sections.featured-product.presets.featured_product.name",
+      "settings": {
+        "featured_product": "wireless-hair-straightneer",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
       }
     },
     "rich_text_icmLMW": {
@@ -30,14 +93,14 @@
         "heading_dPbm6N": {
           "type": "heading",
           "settings": {
-            "title": "Rich text"
+            "title": "At Solva"
           }
         },
         "text_GPW9qx": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "text": "<p>we believe beauty should be simple, smart, and effortless. Our mission is to create innovative, high-quality styling tools that fit seamlessly into your everyday life. Designed with convenience, performance, and style in mind, Solva products help you look and feel your best—anytime, anywhere.</p><p>We focus on compact, reliable solutions that deliver salon-like results without the hassle. With Solva, beauty is made easy.</p>"
           }
         }
       },
@@ -52,26 +115,99 @@
         "divider": false
       }
     },
-    "text_and_image_fY48EM": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
+    "faq_hd9KM6": {
+      "type": "faq",
+      "blocks": {
+        "question_pYKp7U": {
+          "type": "question",
+          "settings": {
+            "title": "What is Solva?",
+            "text": "<p>Solva is a beauty brand focused on creating smart, portable, and easy-to-use hair styling tools designed for modern lifestyles.<br/></p>"
+          }
+        },
+        "question_DFUDT9": {
+          "type": "question",
+          "settings": {
+            "title": "Where are Solva products designed?",
+            "text": "<p>Solva products are thoughtfully designed to combine performance, convenience, and style for everyday use.</p>"
+          }
+        },
+        "question_dyVGRR": {
+          "type": "question",
+          "settings": {
+            "title": "Are Solva products safe to use?",
+            "text": "<p>Yes, safety is a priority. Our products are designed with user-friendly and protective features to ensure comfortable styling.</p>"
+          }
+        },
+        "question_nVnAWr": {
+          "type": "question",
+          "settings": {
+            "title": "How can I stay updated on new products?",
+            "text": "<p>Follow Solva on social media or subscribe to updates from your preferred shopping platform to stay informed about new launches and offers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_pYKp7U",
+        "question_DFUDT9",
+        "question_dyVGRR",
+        "question_nVnAWr"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
       "settings": {
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "title": "FAQs"
+      }
+    },
+    "text_with_icons_jYRQxY": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_B7LpAj": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "Delivery  All Over Lebanon",
+            "text": ""
+          }
+        },
+        "text_block_NkDaVz": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "24/7 support",
+            "text": ""
+          }
+        },
+        "text_block_WQmyaC": {
+          "type": "text_block",
+          "settings": {
+            "icon": "sales-tag",
+            "title": "100 % safe",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_B7LpAj",
+        "text_block_NkDaVz",
+        "text_block_WQmyaC"
+      ],
+      "name": "Text columns with icons",
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000",
         "button_label": "",
         "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
         "divider": false
       }
     }
   },
   "order": [
-    "hero-video",
+    "fading_images_rkrYWH",
+    "featured_product_PEkt3B",
     "rich_text_icmLMW",
-    "text_and_image_fY48EM"
+    "faq_hd9KM6",
+    "text_with_icons_jYRQxY"
   ]
 }
