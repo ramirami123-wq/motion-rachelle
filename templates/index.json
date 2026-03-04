@@ -9,36 +9,50 @@
  */
 {
   "sections": {
-    "fading_images_rkrYWH": {
-      "type": "fading-images",
+    "slideshow_eFCeMX": {
+      "type": "slideshow",
       "blocks": {
-        "image_ahW8kb": {
+        "image_cQLLgU": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2026-03-04_at_22.58.01.jpg",
-            "focal_point": "center center",
-            "slide_title1": "",
-            "slide_title2": ""
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/WhatsApp_Image_2026-03-04_at_22.58.01_1.jpg",
+            "image_mobile": "shopify://shop_images/WhatsApp_Image_2026-03-04_at_21.49.38_404ec993-35ac-4454-875c-6e48ec10c64d.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "image_UKJaM4": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide titles.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
           }
         }
       },
       "block_order": [
-        "image_ahW8kb"
+        "image_cQLLgU",
+        "image_UKJaM4"
       ],
-      "name": "t:sections.fading-images.presets.fading_image_hero.name",
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
-        "title_lines": "1",
-        "title_font": "heading",
-        "title_size": 45,
-        "title_color": "#ffffff",
-        "title_bg_color": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "link": "",
-        "slide_speed": 5,
-        "color_overlay": "#000000",
-        "color_overlay_opacity": 30,
-        "desktop_height": "650px",
-        "mobile_height": "auto"
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
       }
     },
     "featured_product_PEkt3B": {
@@ -282,7 +296,7 @@
     }
   },
   "order": [
-    "fading_images_rkrYWH",
+    "slideshow_eFCeMX",
     "featured_product_PEkt3B",
     "blocks_R7BnNx",
     "rich_text_icmLMW",
