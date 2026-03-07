@@ -35,7 +35,7 @@
         "text_align": "vertical-center horizontal-center",
         "link": "",
         "slide_speed": 5,
-        "color_overlay": "#000",
+        "color_overlay": "#000000",
         "color_overlay_opacity": 30,
         "desktop_height": "650px",
         "mobile_height": "auto"
@@ -90,7 +90,7 @@
       ],
       "name": "t:sections.featured-product.presets.featured_product.name",
       "settings": {
-        "featured_product": "wireless-hair-straightneer",
+        "featured_product": "wireless-hair-straightener-brush",
         "divider": false,
         "sku_enable": false,
         "image_size": "medium",
