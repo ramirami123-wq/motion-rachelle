@@ -70,15 +70,16 @@
       "header": {
         "type": "header",
         "settings": {
-          "desktop_logo_width": 280,
-          "mobile_logo_width": 110,
+          "logo": "shopify://shop_images/Black_and_Cream_Beauty_Fashion_Logo_104e7311-1763-47f8-a28b-7436fd1cf718.png",
+          "desktop_logo_width": 140,
+          "mobile_logo_width": 90,
           "main_menu_link_list": "main-menu",
           "main_menu_alignment": "center-left",
           "header_sticky": true,
           "sticky_index": true,
           "sticky_collection": false,
           "show_announcement": true,
-          "announcement_text": "Delivery All Over Lebanon",
+          "announcement_text": "10% discount on orders up to 50$",
           "announcement_link": "",
           "announcement_closable": false
         }
