@@ -12,18 +12,28 @@
     "fading_images_gEXzF6": {
       "type": "fading-images",
       "blocks": {
-        "image_GPDdCB": {
+        "image_NHrkdH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2026-03-04_at_22.58.01_1_a5bf455f-459c-40fa-be3d-4f5b545f6b5e.jpg",
+            "image": "shopify://shop_images/makeup.jpg",
             "focal_point": "center center",
-            "slide_title1": "",
-            "slide_title2": ""
+            "slide_title1": "Effortless Elegance, Defined",
+            "slide_title2": "Unveil Your Natural Glow"
+          }
+        },
+        "image_39qwkK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_4j1xa34j1xa34j1x.jpg",
+            "focal_point": "center center",
+            "slide_title1": "Let you face shine",
+            "slide_title2": "discover your beauty"
           }
         }
       },
       "block_order": [
-        "image_GPDdCB"
+        "image_NHrkdH",
+        "image_39qwkK"
       ],
       "name": "t:sections.fading-images.presets.fading_image_hero.name",
       "settings": {
