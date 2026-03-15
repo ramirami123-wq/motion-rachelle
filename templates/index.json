@@ -29,21 +29,11 @@
             "slide_title1": "Effortless Elegance, Defined",
             "slide_title2": "Unveil Your Natural Glow"
           }
-        },
-        "image_39qwkK": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_4j1xa34j1xa34j1x.jpg",
-            "focal_point": "center center",
-            "slide_title1": "Let you face shine",
-            "slide_title2": "discover your beauty"
-          }
         }
       },
       "block_order": [
         "image_EJaTxH",
-        "image_NHrkdH",
-        "image_39qwkK"
+        "image_NHrkdH"
       ],
       "name": "t:sections.fading-images.presets.fading_image_hero.name",
       "settings": {
