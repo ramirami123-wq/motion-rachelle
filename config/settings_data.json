@@ -70,6 +70,18 @@
       "header": {
         "type": "header",
         "blocks": {
+          "megamenu_MhrDCB": {
+            "type": "megamenu",
+            "settings": {
+              "menu_item": "",
+              "promo_heading_1": "",
+              "promo_text_1": "",
+              "promo_url_1": "",
+              "promo_heading_2": "",
+              "promo_text_2": "",
+              "promo_url_2": ""
+            }
+          },
           "megamenu_FXxqJj": {
             "type": "megamenu",
             "settings": {
@@ -96,6 +108,7 @@
           }
         },
         "block_order": [
+          "megamenu_MhrDCB",
           "megamenu_FXxqJj",
           "megamenu_eUaUer"
         ],
