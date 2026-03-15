@@ -100,7 +100,6 @@
           "megamenu_eUaUer"
         ],
         "settings": {
-          "logo": "{{ metaobjects[\"shopify--color-pattern\"].clear.image.value }}",
           "desktop_logo_width": 140,
           "mobile_logo_width": 90,
           "main_menu_link_list": "main-menu",
