@@ -69,6 +69,23 @@
     "sections": {
       "header": {
         "type": "header",
+        "blocks": {
+          "megamenu_eUaUer": {
+            "type": "megamenu",
+            "settings": {
+              "menu_item": "",
+              "promo_heading_1": "",
+              "promo_text_1": "",
+              "promo_url_1": "",
+              "promo_heading_2": "",
+              "promo_text_2": "",
+              "promo_url_2": ""
+            }
+          }
+        },
+        "block_order": [
+          "megamenu_eUaUer"
+        ],
         "settings": {
           "logo": "shopify://shop_images/Black_and_Cream_Beauty_Fashion_Logo_104e7311-1763-47f8-a28b-7436fd1cf718.png",
           "desktop_logo_width": 140,
