@@ -26,8 +26,8 @@
           "settings": {
             "image": "shopify://shop_images/makeup.jpg",
             "focal_point": "center center",
-            "slide_title1": "Effortless Elegance, Defined",
-            "slide_title2": "Unveil Your Natural Glow"
+            "slide_title1": "",
+            "slide_title2": ""
           }
         }
       },
