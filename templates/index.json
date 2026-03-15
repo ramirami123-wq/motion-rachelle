@@ -12,7 +12,7 @@
     "fading_images_gEXzF6": {
       "type": "fading-images",
       "blocks": {
-        "image_igByec": {
+        "image_EJaTxH": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/logo.jpg",
@@ -41,7 +41,7 @@
         }
       },
       "block_order": [
-        "image_igByec",
+        "image_EJaTxH",
         "image_NHrkdH",
         "image_39qwkK"
       ],
