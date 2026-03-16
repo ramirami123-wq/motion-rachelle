@@ -12,6 +12,15 @@
     "fading_images_gEXzF6": {
       "type": "fading-images",
       "blocks": {
+        "image_UBqpcp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/hero2_b4e1f72e-c2d9-45dc-a9a3-ce228f4df0fa.jpg",
+            "focal_point": "center center",
+            "slide_title1": "Unviel Your",
+            "slide_title2": "Face Care Potential"
+          }
+        },
         "image_YHMVHX": {
           "type": "image",
           "settings": {
@@ -23,6 +32,7 @@
         }
       },
       "block_order": [
+        "image_UBqpcp",
         "image_YHMVHX"
       ],
       "name": "t:sections.fading-images.presets.fading_image_hero.name",
