@@ -146,19 +146,6 @@
     "rich_text_icmLMW": {
       "type": "rich-text",
       "blocks": {
-        "heading_dPbm6N": {
-          "type": "heading",
-          "settings": {
-            "title": "At Solva"
-          }
-        },
-        "text_GPW9qx": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>we believe beauty should be simple, smart, and effortless. Our mission is to create innovative, high-quality styling tools that fit seamlessly into your everyday life. Designed with convenience, performance, and style in mind, Solva products help you look and feel your best—anytime, anywhere.</p><p>We focus on compact, reliable solutions that deliver salon-like results without the hassle. With Solva, beauty is made easy.</p>"
-          }
-        },
         "page_yh9zjR": {
           "type": "page",
           "settings": {
@@ -167,8 +154,6 @@
         }
       },
       "block_order": [
-        "heading_dPbm6N",
-        "text_GPW9qx",
         "page_yh9zjR"
       ],
       "name": "t:sections.rich-text.presets.rich_text.name",
