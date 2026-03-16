@@ -18,7 +18,7 @@
             "image": "shopify://shop_images/hero1_5ba2505c-06e9-4fba-878e-af6c25a51a6e.jpg",
             "focal_point": "center center",
             "slide_title1": "Revitalize Your Hair Routine",
-            "slide_title2": "Shop Premium Styling Tools{{ metaobjects[\"shopify--color-pattern\"].purple.label.value }}"
+            "slide_title2": "Shop Premium Styling Tools"
           }
         }
       },
