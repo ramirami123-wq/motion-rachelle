@@ -185,14 +185,14 @@
             "separator": "★",
             "scroll_speed": 1,
             "direction": "left",
-            "background_color": "#111111",
+            "background_color": "#b813c1",
             "text_color": "#ffffff",
             "separator_color": "#ffffff",
-            "font_size": 18,
+            "font_size": 30,
             "font_weight": "500",
             "text_transform": false,
-            "padding_vertical": 16,
-            "item_spacing": 40
+            "padding_vertical": 8,
+            "item_spacing": 30
           },
           "blocks": {}
         }
