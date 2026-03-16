@@ -12,28 +12,18 @@
     "fading_images_gEXzF6": {
       "type": "fading-images",
       "blocks": {
-        "image_EJaTxH": {
+        "image_YHMVHX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/logo.jpg",
+            "image": "shopify://shop_images/hero1_5ba2505c-06e9-4fba-878e-af6c25a51a6e.jpg",
             "focal_point": "center center",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
-        "image_NHrkdH": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/makeup.jpg",
-            "focal_point": "center center",
-            "slide_title1": "",
-            "slide_title2": ""
+            "slide_title1": "Revitalize Your Hair Routine",
+            "slide_title2": "Shop Premium Styling Tools{{ metaobjects[\"shopify--color-pattern\"].purple.label.value }}"
           }
         }
       },
       "block_order": [
-        "image_EJaTxH",
-        "image_NHrkdH"
+        "image_YHMVHX"
       ],
       "name": "t:sections.fading-images.presets.fading_image_hero.name",
       "settings": {
