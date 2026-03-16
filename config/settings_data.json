@@ -125,7 +125,7 @@
           "sticky_index": true,
           "sticky_collection": false,
           "show_announcement": true,
-          "announcement_text": "10% discount on orders up to 50$",
+          "announcement_text": "Enjoy a 10% discount on orders above $50",
           "announcement_link": "",
           "announcement_closable": false
         }
