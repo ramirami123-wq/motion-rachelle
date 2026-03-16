@@ -9,8 +9,9 @@
  */
 {
   "current": {
+    "color_body_bg": "#e8e8e1",
     "color_borders": "#e8e8e1",
-    "color_button": "#111111",
+    "color_button": "#b813c1",
     "color_button_text": "#ffffff",
     "color_announcement": "#b813c1",
     "color_footer": "#b813c1",
