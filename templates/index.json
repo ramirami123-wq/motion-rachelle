@@ -100,24 +100,6 @@
     "fading_images_mnQWUR": {
       "type": "fading-images",
       "blocks": {
-        "image_TQH8QP": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/14AABA43-978B-4F27-8B9A-49C32B47A15D.jpg",
-            "focal_point": "center center",
-            "slide_title1": "Where Beauty Meets Confidence",
-            "slide_title2": ""
-          }
-        },
-        "image_iPzYKb": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/D65DC5C6-FE09-4DF6-8A04-1AC88DBC7948.png",
-            "focal_point": "center center",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
         "image_aAdC76": {
           "type": "image",
           "settings": {
@@ -147,8 +129,6 @@
         }
       },
       "block_order": [
-        "image_TQH8QP",
-        "image_iPzYKb",
         "image_aAdC76",
         "image_EJdEwY",
         "image_63CF43"
