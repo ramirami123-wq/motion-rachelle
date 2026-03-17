@@ -127,7 +127,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/IMG_0850.jpg",
-            "focal_point": "center center",
+            "focal_point": "bottom center",
             "slide_title1": "",
             "slide_title2": ""
           }
