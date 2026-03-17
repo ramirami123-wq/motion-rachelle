@@ -101,178 +101,13 @@
       "disabled": true,
       "settings": {}
     },
-    "text_and_image_qRNhCe": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/123123.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Effortless Styling",
-        "text": "<p><br/>Get smooth, neat hair in minutes with a compact tool designed for quick daily touch-ups.<br/><br/></p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
-    },
     "1772537693c7b1a21e": {
       "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_3908ddc_6wNLYg": {
-          "type": "ai_gen_block_3908ddc",
-          "settings": {
-            "text_1": "Delivery ALL OVER LEBANON",
-            "text_2": "Delivery ALL OVER LEBANON",
-            "text_3": "Delivery ALL OVER LEBANON",
-            "text_4": "",
-            "text_5": "",
-            "separator": "★",
-            "scroll_speed": 1,
-            "direction": "left",
-            "background_color": "#111111",
-            "text_color": "#ffffff",
-            "separator_color": "#ffffff",
-            "font_size": 18,
-            "font_weight": "500",
-            "text_transform": false,
-            "padding_vertical": 16,
-            "item_spacing": 40
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_3908ddc_6wNLYg"
-      ],
       "settings": {}
-    },
-    "text_and_image_YRGa6x": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/21.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Small Size, Big Results",
-        "text": "<p>A lightweight design that delivers sleek, polished hair without the hassle.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "divider": false
-      }
     },
     "blocks_3z3p7R": {
       "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_3908ddc_rdrzgT": {
-          "type": "ai_gen_block_3908ddc",
-          "settings": {
-            "text_1": "Smooth hair. Zero stress.",
-            "text_2": "Smooth hair. Zero stress.",
-            "text_3": "Smooth hair. Zero stress.",
-            "text_4": "",
-            "text_5": "",
-            "separator": "★",
-            "scroll_speed": 1,
-            "direction": "left",
-            "background_color": "#111111",
-            "text_color": "#ffffff",
-            "separator_color": "#ffffff",
-            "font_size": 18,
-            "font_weight": "500",
-            "text_transform": false,
-            "padding_vertical": 16,
-            "item_spacing": 40
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_3908ddc_rdrzgT"
-      ],
       "settings": {}
-    },
-    "hooo_EhLkRF": {
-      "type": "hooo",
-      "blocks": {
-        "slide_BRh4xh": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/new_york_times_logo_300x300_413e620a-38db-464f-b1dd-3d4ec6dfda43.png",
-            "link": ""
-          }
-        },
-        "slide_CdKiAJ": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/l_orient_le_jour_300x300_d6bf8c7a-f1cd-4f7c-8d4c-6a52075d763a.png",
-            "link": ""
-          }
-        },
-        "slide_Cet9rX": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Sephora_Logo_300x300_ce912df1-3737-4474-8d32-1ae9980a01d0.png",
-            "link": ""
-          }
-        },
-        "slide_BPDcKP": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/stella_magazines_300x300_d3660840-45fb-4fcf-875c-50b4e4d7b85c.png",
-            "link": ""
-          }
-        },
-        "slide_JfX9Fx": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Le_Journal_Des_Femmes_300x300_87025a43-adc1-42bd-8fb4-359ca60b0018.png",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide_BRh4xh",
-        "slide_CdKiAJ",
-        "slide_Cet9rX",
-        "slide_BPDcKP",
-        "slide_JfX9Fx"
-      ],
-      "name": "SS - Scrolling Logo Cloud",
-      "settings": {
-        "ss-title": "Trusted by",
-        "heading_custom": false,
-        "heading_font": "assistant_n4",
-        "header_size": 30,
-        "header_align": "center",
-        "scrolling_velocity": 10,
-        "pause_hover": false,
-        "shadow": false,
-        "sliders_mt": 16,
-        "logo_padding_top": 0,
-        "logo_padding_bottom": 0,
-        "slider_gap": 30,
-        "slider_gap_mobile": 30,
-        "slider_direction": "left",
-        "icon_width": 200,
-        "header_color": "#121212",
-        "border_color": "#ffffff",
-        "background-color": "#ffffff",
-        "slider-background-color": "#ffffff",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
-      }
     },
     "faq_Rhg6PN": {
       "type": "faq",
@@ -388,11 +223,8 @@
     "sub",
     "product-recommendations",
     "collection-return",
-    "text_and_image_qRNhCe",
     "1772537693c7b1a21e",
-    "text_and_image_YRGa6x",
     "blocks_3z3p7R",
-    "hooo_EhLkRF",
     "faq_Rhg6PN",
     "1772548012e975415b",
     "text_with_icons_cDxdFz"
