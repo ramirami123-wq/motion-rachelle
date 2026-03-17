@@ -67,7 +67,7 @@
         "custom_YVE3MM": {
           "type": "custom",
           "settings": {
-            "code": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">⚡ Fast 30-Second Heating</span> – Advanced heating technology warms up in just <strong>30 seconds</strong>, so you can style your hair quickly without wasting time.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ 3 Adjustable Temperature Speeds</span> – Easily control the heat level to suit your hair type: <strong>soft, normal, or thick</strong> for customized styling.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Smooth & Effortless Styling</span> – Designed to glide through your hair smoothly, helping you achieve a sleek and polished look with minimal effort.<br><br>\n\n<span style=\"font-weight: bold;\">🛡️ Safe & Hair-Friendly</span> – Provides consistent heat that helps protect your hair while delivering beautiful, damage-free results every time.\n\n</div>"
+            "code": "Turn back time with our Neck & Face Wrinkle Remover device. Designed to smooth fine lines and firm the skin, it helps restore a youthful, lifted appearance with regular use. Gentle, effective, and easy to use, it boosts skin radiance and leaves your face and neck looking refreshed, toned, and naturally glowing."
           }
         },
         "separator_4Um8dF": {
@@ -100,12 +100,12 @@
       ],
       "name": "t:sections.featured-product.presets.featured_product.name",
       "settings": {
-        "featured_product": "",
+        "featured_product": "neck-and-face-wrinkle-remover",
         "divider": false,
         "sku_enable": false,
         "image_size": "medium",
         "product_zoom_enable": true,
-        "thumbnail_position": "beside",
+        "thumbnail_position": "below",
         "thumbnail_arrows": false,
         "enable_video_looping": true,
         "product_video_style": "muted"
