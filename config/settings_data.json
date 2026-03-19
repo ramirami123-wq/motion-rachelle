@@ -10,11 +10,12 @@
 {
   "current": {
     "color_body_bg": "#ffffff",
-    "color_borders": "#b813c1",
-    "color_button": "#b813c1",
+    "color_borders": "#a60e0e",
+    "color_button": "#a60e0e",
     "color_button_text": "#ffffff",
-    "color_announcement": "#b813c1",
-    "color_footer": "#b813c1",
+    "color_cart_dot": "#a60e0e",
+    "color_announcement": "#a60e0e",
+    "color_footer": "#a60e0e",
     "color_footer_text": "#ffffff",
     "color_drawer_background": "#ffffff",
     "color_drawer_text": "#000000",
