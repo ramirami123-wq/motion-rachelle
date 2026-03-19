@@ -54,23 +54,6 @@
         "product_video_style": "muted"
       }
     },
-    "text_and_image_UNEKjN": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/1772881606_phpnugcauuk5nqg6gsXevx.jpg",
-        "image_width": 680,
-        "subtitle": "",
-        "title": "Flawless Coverage, Effortless Blend",
-        "text": "<p><br/>Achieve a smooth, natural look in seconds with our Concealer + Brush. Designed for precision and ease, the built-in brush helps you blend seamlessly while the concealer provides even coverage to hide imperfections and brighten your skin. Perfect for quick touch-ups anytime, anywhere.<br/><br/></p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
-    },
     "text_and_image_kdK6BP": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -107,6 +90,55 @@
     "collection-return": {
       "type": "collection-return",
       "disabled": true,
+      "settings": {}
+    },
+    "text_and_image_UNEKjN": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/1772881606_phpnugcauuk5nqg6gsXevx.jpg",
+        "image_width": 680,
+        "subtitle": "",
+        "title": "Flawless Coverage, Effortless Blend",
+        "text": "<p><br/>Achieve a smooth, natural look in seconds with our Concealer + Brush. Designed for precision and ease, the built-in brush helps you blend seamlessly while the concealer provides even coverage to hide imperfections and brighten your skin. Perfect for quick touch-ups anytime, anywhere.<br/><br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "blocks_TfBELE": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_3908ddc_EWw9Ec": {
+          "type": "ai_gen_block_3908ddc",
+          "settings": {
+            "text_1": "Free shipping on orders over $50",
+            "text_2": "New arrivals every week",
+            "text_3": "Shop the latest trends",
+            "text_4": "",
+            "text_5": "",
+            "separator": "★",
+            "scroll_speed": 1,
+            "direction": "left",
+            "background_color": "#b813c1",
+            "text_color": "#ffffff",
+            "separator_color": "#ffffff",
+            "font_size": 18,
+            "font_weight": "500",
+            "text_transform": false,
+            "padding_vertical": 16,
+            "item_spacing": 40
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_3908ddc_EWw9Ec"
+      ],
+      "name": "Marquee",
       "settings": {}
     },
     "1772548012e975415b": {
@@ -177,11 +209,12 @@
   },
   "order": [
     "main",
-    "text_and_image_UNEKjN",
-    "text_and_image_kdK6BP",
     "sub",
     "product-recommendations",
     "collection-return",
+    "text_and_image_UNEKjN",
+    "blocks_TfBELE",
+    "text_and_image_kdK6BP",
     "1772548012e975415b",
     "text_with_icons_cDxdFz"
   ]
