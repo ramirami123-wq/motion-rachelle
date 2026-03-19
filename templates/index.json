@@ -15,6 +15,7 @@
         "image_gWKbmc": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Wow.jpg",
             "focal_point": "center center",
             "slide_title1": "",
             "slide_title2": ""
