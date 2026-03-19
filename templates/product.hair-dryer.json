@@ -95,8 +95,9 @@
     "blocks_yxzd9N": {
       "type": "_blocks",
       "blocks": {
-        "ai_gen_block_3908ddc_zTrnQz": {
+        "ai_gen_block_3908ddc_4N8cQR": {
           "type": "ai_gen_block_3908ddc",
+          "name": "Marquee",
           "settings": {
             "text_1": "Free shipping on orders over $50",
             "text_2": "New arrivals every week",
@@ -106,7 +107,7 @@
             "separator": "★",
             "scroll_speed": 1,
             "direction": "left",
-            "background_color": "#111111",
+            "background_color": "#a60e0e",
             "text_color": "#ffffff",
             "separator_color": "#ffffff",
             "font_size": 18,
@@ -119,7 +120,7 @@
         }
       },
       "block_order": [
-        "ai_gen_block_3908ddc_zTrnQz"
+        "ai_gen_block_3908ddc_4N8cQR"
       ],
       "name": "Marquee",
       "settings": {}
@@ -215,7 +216,7 @@
             "corner_styling": "soft",
             "header_text_color": "#a60e0e",
             "text_color": "#a60e0e",
-            "card_color": "#F9F9F9",
+            "card_color": "#f9f9f9",
             "stars_color": "",
             "arrows_color": "#000000",
             "transition_speed": 5,
