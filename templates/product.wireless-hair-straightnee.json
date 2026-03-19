@@ -101,12 +101,167 @@
       "disabled": true,
       "settings": {}
     },
-    "1772537693c7b1a21e": {
+    "text_and_image_nKKtHN": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/ECB689B3-0DD2-4430-A306-E631E98BE127.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Pocket-Sized Power for Perfect Hair",
+        "text": "<p><br/>Achieve sleek, salon-quality hair wherever you are with this mini portable hair straightener. Designed for convenience and performance, it heats quickly and fits easily into your bag, making it perfect for travel, school, or everyday touch-ups.<br/><br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "blocks_iny3MV": {
       "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_3908ddc_RNy3Lb": {
+          "type": "ai_gen_block_3908ddc",
+          "settings": {
+            "text_1": "Style your hair anytime, anywhere—beauty that fits in your palm",
+            "text_2": "Style your hair anytime, anywhere—beauty that fits in your palm",
+            "text_3": "Style your hair anytime, anywhere—beauty that fits in your palm",
+            "text_4": "Style your hair anytime, anywhere—beauty that fits in your palm",
+            "text_5": "",
+            "separator": "",
+            "scroll_speed": 1,
+            "direction": "left",
+            "background_color": "#b813c1",
+            "text_color": "#ffffff",
+            "separator_color": "#ffffff",
+            "font_size": 18,
+            "font_weight": "500",
+            "text_transform": false,
+            "padding_vertical": 16,
+            "item_spacing": 40
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_3908ddc_RNy3Lb"
+      ],
+      "name": "Marquee",
       "settings": {}
     },
-    "blocks_3z3p7R": {
+    "text_and_image_xTR4bz": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/5C834018-4F86-4569-A808-4D21E1718D58.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Effortless Styling On the Go",
+        "text": "<p>Say goodbye to bad hair days with a compact tool that delivers smooth, frizz-free results in minutes. Its lightweight design and easy handling make styling simple, so you can look your best anytime, anywhere.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "blocks_AqrVRP": {
       "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_3908ddc_ky64qy": {
+          "type": "ai_gen_block_3908ddc",
+          "settings": {
+            "text_1": "Small in size, powerful in style—your perfect hair companion.”",
+            "text_2": "Small in size, powerful in style—your perfect hair companion.”",
+            "text_3": "Small in size, powerful in style—your perfect hair companion.”",
+            "text_4": "Small in size, powerful in style—your perfect hair companion.”",
+            "text_5": "",
+            "separator": "",
+            "scroll_speed": 1,
+            "direction": "left",
+            "background_color": "#b813c1",
+            "text_color": "#ffffff",
+            "separator_color": "#ffffff",
+            "font_size": 18,
+            "font_weight": "500",
+            "text_transform": false,
+            "padding_vertical": 16,
+            "item_spacing": 40
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_3908ddc_ky64qy"
+      ],
+      "name": "Marquee",
+      "settings": {}
+    },
+    "1773923574978f8100": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_c036dd9_w8KPJH": {
+          "type": "ai_gen_block_c036dd9",
+          "settings": {
+            "heading": "Why choose us?",
+            "feature_column_label": "Features",
+            "us_column_label": "Us",
+            "others_column_label": "Others",
+            "feature_1": "Compact & Travel-Friendly",
+            "feature_1_us": "check",
+            "feature_1_others": "cross",
+            "feature_2": "Fast Heating Technology",
+            "feature_2_us": "check",
+            "feature_2_others": "cross",
+            "feature_3": "Gentle on Hair",
+            "feature_3_us": "check",
+            "feature_3_others": "cross",
+            "feature_4": "Affordable Quality",
+            "feature_4_us": "check",
+            "feature_4_others": "cross",
+            "feature_5": "",
+            "feature_5_us": "check",
+            "feature_5_others": "cross",
+            "feature_6": "",
+            "feature_6_us": "check",
+            "feature_6_others": "cross",
+            "feature_7": "",
+            "feature_7_us": "check",
+            "feature_7_others": "cross",
+            "feature_8": "",
+            "feature_8_us": "check",
+            "feature_8_others": "cross",
+            "desktop_width_percent": 100,
+            "padding": 30,
+            "border_radius": 8,
+            "cell_padding": 16,
+            "border_width": 1,
+            "heading_size": 28,
+            "heading_spacing": 25,
+            "header_font_size": 16,
+            "text_size": 15,
+            "icon_size": 24,
+            "background_color": "#ffffff",
+            "heading_color": "#000000",
+            "table_background": "#ffffff",
+            "header_background": "#f5f5f5",
+            "header_text_color": "#000000",
+            "us_column_background": "#b813c1",
+            "us_column_text_color": "#ffffff",
+            "us_cell_background": "#f9f0fa",
+            "text_color": "#000000",
+            "border_color": "#e0e0e0",
+            "checkmark_color": "#00a651",
+            "cross_color": "#d82c0d"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_c036dd9_w8KPJH"
+      ],
       "settings": {}
     },
     "faq_Rhg6PN": {
@@ -223,8 +378,11 @@
     "sub",
     "product-recommendations",
     "collection-return",
-    "1772537693c7b1a21e",
-    "blocks_3z3p7R",
+    "text_and_image_nKKtHN",
+    "blocks_iny3MV",
+    "text_and_image_xTR4bz",
+    "blocks_AqrVRP",
+    "1773923574978f8100",
     "faq_Rhg6PN",
     "1772548012e975415b",
     "text_with_icons_cDxdFz"

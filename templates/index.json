@@ -51,50 +51,16 @@
         "mobile_height": "auto"
       }
     },
-    "featured_product_PEkt3B": {
-      "type": "featured-product",
-      "blocks": {
-        "custom_GCxmbw": {
-          "type": "custom",
-          "settings": {
-            "code": ""
-          }
-        },
-        "custom_YVE3MM": {
-          "type": "custom",
-          "settings": {
-            "code": "Turn back time with our Neck & Face Wrinkle Remover device. Designed to smooth fine lines and firm the skin, it helps restore a youthful, lifted appearance with regular use. Gentle, effective, and easy to use, it boosts skin radiance and leaves your face and neck looking refreshed, toned, and naturally glowing."
-          }
-        },
-        "separator_4Um8dF": {
-          "type": "separator",
-          "settings": {}
-        },
-        "buy_buttons_bKbLAc": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        }
-      },
-      "block_order": [
-        "custom_GCxmbw",
-        "custom_YVE3MM",
-        "separator_4Um8dF",
-        "buy_buttons_bKbLAc"
-      ],
-      "name": "t:sections.featured-product.presets.featured_product.name",
+    "featured_collection_eLgELy": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
-        "featured_product": "neck-and-face-wrinkle-remover",
-        "divider": false,
-        "sku_enable": false,
-        "image_size": "medium",
-        "product_zoom_enable": true,
-        "thumbnail_position": "below",
-        "thumbnail_arrows": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted"
+        "title": "Featured collection",
+        "home_featured_products": "all-product",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
       }
     },
     "fading_images_mnQWUR": {
@@ -323,7 +289,7 @@
   },
   "order": [
     "fading_images_gEXzF6",
-    "featured_product_PEkt3B",
+    "featured_collection_eLgELy",
     "fading_images_mnQWUR",
     "blocks_R7BnNx",
     "rich_text_icmLMW",
