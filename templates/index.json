@@ -69,7 +69,7 @@
         "image_aAdC76": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_0849_ffd10741-d190-4a7c-9b4a-241812c36c21.jpg",
+            "image": "shopify://shop_images/Wow.jpg",
             "focal_point": "center center",
             "slide_title1": "",
             "slide_title2": ""
@@ -78,7 +78,7 @@
         "image_EJdEwY": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_0847_e99b308d-20bd-4044-9046-27d1c1a32e7a.jpg",
+            "image": "shopify://shop_images/Beauty_Designed_for_You.jpg",
             "focal_point": "center center",
             "slide_title1": "",
             "slide_title2": ""
@@ -87,8 +87,8 @@
         "image_63CF43": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_0850.jpg",
-            "focal_point": "bottom center",
+            "image": "shopify://shop_images/Escova_Massageadora.jpg",
+            "focal_point": "center center",
             "slide_title1": "",
             "slide_title2": ""
           }
