@@ -12,6 +12,14 @@
     "fading_images_gEXzF6": {
       "type": "fading-images",
       "blocks": {
+        "image_gWKbmc": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        },
         "image_UBqpcp": {
           "type": "image",
           "settings": {
@@ -32,6 +40,7 @@
         }
       },
       "block_order": [
+        "image_gWKbmc",
         "image_UBqpcp",
         "image_YHMVHX"
       ],
@@ -129,7 +138,7 @@
             "separator": "★",
             "scroll_speed": 1,
             "direction": "left",
-            "background_color": "#b813c1",
+            "background_color": "#a60e0e",
             "text_color": "#ffffff",
             "separator_color": "#ffffff",
             "font_size": 18,
@@ -181,7 +190,7 @@
             "separator": "★",
             "scroll_speed": 1,
             "direction": "left",
-            "background_color": "#b813c1",
+            "background_color": "#a60e0e",
             "text_color": "#ffffff",
             "separator_color": "#ffffff",
             "font_size": 30,
@@ -212,7 +221,7 @@
         "question_DFUDT9": {
           "type": "question",
           "settings": {
-            "title": "What are the benefits of Solva products?",
+            "title": "Where are Solva products designed?",
             "text": "<p>Solva products are thoughtfully designed to combine performance, convenience, and style for everyday use.</p>"
           }
         },
