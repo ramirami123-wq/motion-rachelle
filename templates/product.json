@@ -54,6 +54,23 @@
         "product_video_style": "muted"
       }
     },
+    "text_and_image_UNEKjN": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/1772881606_phpnugcauuk5nqg6gsXevx.jpg",
+        "image_width": 680,
+        "subtitle": "",
+        "title": "Flawless Coverage, Effortless Blend",
+        "text": "<p><br/>Achieve a smooth, natural look in seconds with our Concealer + Brush. Designed for precision and ease, the built-in brush helps you blend seamlessly while the concealer provides even coverage to hide imperfections and brighten your skin. Perfect for quick touch-ups anytime, anywhere.<br/><br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "sub": {
       "type": "product-full-width",
       "disabled": true,
@@ -143,6 +160,7 @@
   },
   "order": [
     "main",
+    "text_and_image_UNEKjN",
     "sub",
     "product-recommendations",
     "collection-return",
