@@ -171,6 +171,23 @@
         "button_link": "",
         "divider": false
       }
+    },
+    "text_and_image_Vnj3fi": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/1756539319_phpvlvpg5r2mupqae1ybJ1.webp",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "The Ultimate 3-in-1 Hair Dryer Brush",
+        "text": "<p><br/>Effortlessly achieve a salon-quality blowout at home with the <strong>SilkFlow</strong>. This all-in-one styling tool combines the power of a dryer with the precision of a round brush, allowing you to dry, smooth, and add incredible volume in a single step. Designed to glide through hair with ease, it leaves your locks looking healthy, vibrant, and full of life.<br/><br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -178,6 +195,7 @@
     "sub",
     "product-recommendations",
     "collection-return",
+    "text_and_image_Vnj3fi",
     "blocks_yxzd9N",
     "1772548012e975415b",
     "text_with_icons_cDxdFz"
