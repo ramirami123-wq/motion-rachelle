@@ -92,23 +92,6 @@
         "divider": false
       }
     },
-    "text_and_image_kdK6BP": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/1772881606_phpfh91p1q945voc7ZxaZr.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Perfect Touch in One Step",
-        "text": "<p>Elevate your skincare with our innovative Concealer + Brush duo. The lightweight, buildable formula seamlessly covers imperfections and evens out skin tone, while the precision brush delivers professional results every time. Perfect for touch-ups throughout the day, this all-in-one tool keeps your complexion looking fresh and radiant wherever you are.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "divider": false
-      }
-    },
     "blocks_yxzd9N": {
       "type": "_blocks",
       "blocks": {
@@ -140,6 +123,23 @@
       ],
       "name": "Marquee",
       "settings": {}
+    },
+    "text_and_image_kdK6BP": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/1772881606_phpfh91p1q945voc7ZxaZr.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Perfect Touch in One Step",
+        "text": "<p>Elevate your skincare with our innovative Concealer + Brush duo. The lightweight, buildable formula seamlessly covers imperfections and evens out skin tone, while the precision brush delivers professional results every time. Perfect for touch-ups throughout the day, this all-in-one tool keeps your complexion looking fresh and radiant wherever you are.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
     },
     "1772548012e975415b": {
       "type": "apps",
@@ -212,10 +212,10 @@
     "sub",
     "product-recommendations",
     "collection-return",
-    "text_and_image_UNEKjN",
-    "text_and_image_kdK6BP",
     "blocks_yxzd9N",
     "1772548012e975415b",
-    "text_with_icons_cDxdFz"
+    "text_with_icons_cDxdFz",
+    "text_and_image_UNEKjN",
+    "text_and_image_kdK6BP"
   ]
 }
