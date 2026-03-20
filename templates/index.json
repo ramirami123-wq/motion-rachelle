@@ -76,6 +76,15 @@
     "fading_images_mnQWUR": {
       "type": "fading-images",
       "blocks": {
+        "image_rdhHBT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/29b41e82ebcb4aca7e9605dea462ad8c.jpg",
+            "focal_point": "center center",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        },
         "image_aAdC76": {
           "type": "image",
           "settings": {
@@ -105,6 +114,7 @@
         }
       },
       "block_order": [
+        "image_rdhHBT",
         "image_aAdC76",
         "image_EJdEwY",
         "image_63CF43"
