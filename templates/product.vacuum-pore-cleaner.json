@@ -75,6 +75,23 @@
       "disabled": true,
       "settings": {}
     },
+    "text_and_image_A3MkRF": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/vaccum.webp",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Vacuum Pore Cleaner",
+        "text": "<ul><li>Effectively removes blackheads from the nose and face.<br/></li><li>Deeply cleans and unclogs pores.<br/></li><li>Helps reduce acne and breakouts.<br/></li><li>Improves skin texture, making it smoother and clearer.<br/></li><li>Enhances blood circulation for a healthier glow.<br/></li><li>Easy to use at home, saving time and money.<br/></li><li>Comes with adjustable suction levels for different skin types.<br/></li></ul>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "blocks_yxzd9N": {
       "type": "_blocks",
       "blocks": {
@@ -171,23 +188,6 @@
         "button_link": "",
         "divider": false
       }
-    },
-    "text_and_image_A3MkRF": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/vaccum.webp",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Vacuum Pore Cleaner",
-        "text": "<ul><li>Effectively removes blackheads from the nose and face.<br/></li><li>Deeply cleans and unclogs pores.<br/></li><li>Helps reduce acne and breakouts.<br/></li><li>Improves skin texture, making it smoother and clearer.<br/></li><li>Enhances blood circulation for a healthier glow.<br/></li><li>Easy to use at home, saving time and money.<br/></li><li>Comes with adjustable suction levels for different skin types.<br/></li></ul>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
     }
   },
   "order": [
@@ -195,9 +195,9 @@
     "sub",
     "product-recommendations",
     "collection-return",
+    "text_and_image_A3MkRF",
     "blocks_yxzd9N",
     "1772548012e975415b",
-    "text_with_icons_cDxdFz",
-    "text_and_image_A3MkRF"
+    "text_with_icons_cDxdFz"
   ]
 }
