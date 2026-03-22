@@ -107,7 +107,7 @@
             "separator": "★",
             "scroll_speed": 1,
             "direction": "left",
-            "background_color": "#111111",
+            "background_color": "#a60e0e",
             "text_color": "#ffffff",
             "separator_color": "#ffffff",
             "font_size": 18,
