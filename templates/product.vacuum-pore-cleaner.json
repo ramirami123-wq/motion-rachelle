@@ -107,6 +107,23 @@
       "name": "Marquee",
       "settings": {}
     },
+    "text_and_image_KeCmG9": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/pore_cleaner.webp",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Say Goodbye to Blackheads Forever",
+        "text": "<ul><li>Deep pore cleansing<br/></li><li>Removes blackheads instantly<br/></li><li>Reduces pore appearance<br/></li><li>Improves skin texture<br/></li><li>Easy to use at home<br/></li><li>Safe for all skin types<br/></li><li>Quick and visible results <br/></li></ul>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "1772548012e975415b": {
       "type": "apps",
       "blocks": {
@@ -171,23 +188,6 @@
         "button_link": "",
         "divider": false
       }
-    },
-    "text_and_image_KeCmG9": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/pore_cleaner.webp",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Say Goodbye to Blackheads Forever",
-        "text": "<ul><li>Deep pore cleansing<br/></li><li>Removes blackheads instantly<br/></li><li>Reduces pore appearance<br/></li><li>Improves skin texture<br/></li><li>Easy to use at home<br/></li><li>Safe for all skin types<br/></li><li>Quick and visible results <br/></li></ul>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
     }
   },
   "order": [
@@ -196,8 +196,8 @@
     "product-recommendations",
     "collection-return",
     "blocks_yxzd9N",
+    "text_and_image_KeCmG9",
     "1772548012e975415b",
-    "text_with_icons_cDxdFz",
-    "text_and_image_KeCmG9"
+    "text_with_icons_cDxdFz"
   ]
 }
