@@ -205,6 +205,41 @@
         "button_link": "",
         "divider": false
       }
+    },
+    "faq_9ejbjn": {
+      "type": "faq",
+      "blocks": {
+        "question_mPXbpC": {
+          "type": "question",
+          "settings": {
+            "title": "What is the Wrinkle Face Remover?",
+            "text": "<p>The Wrinkle Face Remover is a facial and neck massager designed to lift, tighten, and smooth the skin while reducing the appearance of wrinkles.</p>"
+          }
+        },
+        "question_nEddaq": {
+          "type": "question",
+          "settings": {
+            "title": "How do I use it?",
+            "text": "<p>Turn on the device and gently glide it upward along your neck and jawline for a few minutes daily. For best results, use it with your favorite serum or cream.</p>"
+          }
+        },
+        "question_ejHnQT": {
+          "type": "question",
+          "settings": {
+            "title": "Is it safe for all skin types?",
+            "text": "<p>Yes, it is suitable for all skin types. If you have sensitive skin, it’s recommended to start with a lower intensity level.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_mPXbpC",
+        "question_nEddaq",
+        "question_ejHnQT"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "FAQs"
+      }
     }
   },
   "order": [
@@ -215,6 +250,7 @@
     "blocks_yxzd9N",
     "text_and_image_4YkkR4",
     "text_and_image_aVxftL",
+    "faq_9ejbjn",
     "1772548012e975415b",
     "text_with_icons_cDxdFz"
   ]
