@@ -171,6 +171,23 @@
         "button_link": "",
         "divider": false
       }
+    },
+    "text_and_image_8mXXPJ": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/3442a4af-1a81-4734-b73e-c45c60a26694.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "How to Use Your LED Scalp Massage Brush",
+        "text": "<h3><strong>Step 1: Fill the Reservoir</strong></h3><p>Open the silicone lid on the back of the brush. Add your favorite hair growth serum, essential oil, or hair care liquid into the reservoir.</p><p><strong>Note:</strong> It is recommended to add no more than <strong>3ml</strong> at a time to ensure smooth distribution.</p><h3><strong>Step 2: Power Up & Select Light Mode</strong></h3><p>Press and hold the <strong>Power Button for 2 seconds</strong> to turn on the color light mode.</p><ul><li>Once it's on, you can <strong>short press</strong> the power button to switch between or adjust the color light settings.</li></ul><h3><strong>Step 3: Activate the Massage Function</strong></h3><p>To start the relaxing scalp massage, <strong>short press the Gear Adjustment button</strong>. This activates the <strong>kneading function</strong>, which helps the brush mimic a manual scalp massage while distributing the oil.</p><h3><strong>Step 4: Power Off</strong></h3><p>When you are finished with your treatment, simply press and hold the <strong>Power Button for 2 seconds</strong> to turn off the device.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -180,6 +197,7 @@
     "collection-return",
     "blocks_yxzd9N",
     "1772548012e975415b",
-    "text_with_icons_cDxdFz"
+    "text_with_icons_cDxdFz",
+    "text_and_image_8mXXPJ"
   ]
 }
