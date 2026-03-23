@@ -75,6 +75,23 @@
       "disabled": true,
       "settings": {}
     },
+    "text_and_image_mtFy8D": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/3b32c465-4a31-4fc8-880d-b5e360b66592.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Wireless restraint makes you beautiful",
+        "text": "<p>Experience the freedom of styling anywhere with our <strong>Wireless Hair Straightening Brush</strong>. Combining the power of a flat iron with the ease of a brush, this tool is designed to give you smooth, silky hair without the hassle of tangled cords or heat damage.</p><h3><strong>Product Highlights:</strong></h3><ul><li><strong>Wireless Freedom:</strong> No more searching for a power outlet. Its \"wireless restraint\" design allows you to style your hair in the car, at the office, or while traveling.</li><li><strong>Constant Temperature Control:</strong> Features an intelligent LCD display showing a precise <strong>200°C</strong> heat setting, ensuring even heat distribution that smoothens hair without scorching or damaging the strands.</li><li><strong>Soft & Smooth Results:</strong> The anti-scald bristles glide through your hair, detangling and straightening simultaneously for a natural, high-volume finish.</li></ul>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "blocks_yxzd9N": {
       "type": "_blocks",
       "blocks": {
@@ -106,6 +123,23 @@
       ],
       "name": "Marquee",
       "settings": {}
+    },
+    "text_and_image_ktKtN3": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/16cff2f7-b806-4f0b-9ac7-c8bb2a52e315.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Effortless On-the-Go Styling with a Compact Wireless Hair Straightener",
+        "text": "<p><br/>the wireless hair straightener is a convenient and portable styling tool designed for people on the go. Its cordless design, compact size, and dual brush-straightener function make it easy to carry in a bag and use anytime for quick touch-ups, combining practicality with modern style.<br/><br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
     },
     "1772548012e975415b": {
       "type": "apps",
@@ -171,6 +205,41 @@
         "button_link": "",
         "divider": false
       }
+    },
+    "faq_dCLkUE": {
+      "type": "faq",
+      "blocks": {
+        "question_3ntTJR": {
+          "type": "question",
+          "settings": {
+            "title": "How long does it take to heat up?",
+            "text": "<p><br/>Most wireless hair straighteners heat up quickly, usually within 30 to 60 seconds, allowing you to start styling almost immediately<br/><br/></p>"
+          }
+        },
+        "question_VhnnWV": {
+          "type": "question",
+          "settings": {
+            "title": "Is it suitable for all hair types?",
+            "text": "<p>Yes, it can work on most hair types, but it is especially effective for fine to medium hair. For very thick or curly hair, it may be better for touch-ups rather than full straightening.</p><p></p>"
+          }
+        },
+        "question_fJkwR4": {
+          "type": "question",
+          "settings": {
+            "title": "Is it safe to carry in a bag?",
+            "text": "<p><br/>Yes, most wireless straighteners are designed with safety features like heat protection and auto shut-off, making them safe to carry once cooled down.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_3ntTJR",
+        "question_VhnnWV",
+        "question_fJkwR4"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "FAQs"
+      }
     }
   },
   "order": [
@@ -178,7 +247,10 @@
     "sub",
     "product-recommendations",
     "collection-return",
+    "text_and_image_mtFy8D",
     "blocks_yxzd9N",
+    "text_and_image_ktKtN3",
+    "faq_dCLkUE",
     "1772548012e975415b",
     "text_with_icons_cDxdFz"
   ]
