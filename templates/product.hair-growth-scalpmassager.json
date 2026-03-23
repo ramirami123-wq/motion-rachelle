@@ -75,6 +75,23 @@
       "disabled": true,
       "settings": {}
     },
+    "text_and_image_8mXXPJ": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/3442a4af-1a81-4734-b73e-c45c60a26694.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "How to Use Your LED Scalp Massage Brush",
+        "text": "<h3><strong>Step 1: Fill the Reservoir</strong></h3><p>Open the silicone lid on the back of the brush. Add your favorite hair growth serum, essential oil, or hair care liquid into the reservoir.</p><p><strong>Note:</strong> It is recommended to add no more than <strong>3ml</strong> at a time to ensure smooth distribution.</p><h3><strong>Step 2: Power Up & Select Light Mode</strong></h3><p>Press and hold the <strong>Power Button for 2 seconds</strong> to turn on the color light mode.</p><ul><li>Once it's on, you can <strong>short press</strong> the power button to switch between or adjust the color light settings.</li></ul><h3><strong>Step 3: Activate the Massage Function</strong></h3><p>To start the relaxing scalp massage, <strong>short press the Gear Adjustment button</strong>. This activates the <strong>kneading function</strong>, which helps the brush mimic a manual scalp massage while distributing the oil.</p><h3><strong>Step 4: Power Off</strong></h3><p>When you are finished with your treatment, simply press and hold the <strong>Power Button for 2 seconds</strong> to turn off the device.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "blocks_yxzd9N": {
       "type": "_blocks",
       "blocks": {
@@ -106,6 +123,23 @@
       ],
       "name": "Marquee",
       "settings": {}
+    },
+    "text_and_image_pYYicx": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/d4db67cf-95fb-4cc9-8174-9d90092d07ee.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "The Three Light Therapy modes",
+        "text": "<h3><strong>1. Red Light: Growth & Strength</strong></h3><ul><li><strong>Function:</strong> Activates hair follicle cells and fortifies hair roots.</li><li><strong>The Benefit:</strong> Stimulates blood flow to the follicles, encouraging faster growth and reducing hair fall by strengthening the hair from the base.</li></ul><h3><strong>2. Blue Light: Balance & Detox</strong></h3><ul><li><strong>Function:</strong> Scalp detoxification and sebum regulation.</li><li><strong>The Benefit:</strong> Ideal for oily scalps, this mode helps control excess oil (sebum) production and keeps the scalp clean and refreshed, reducing irritation.</li></ul><h3><strong>3. Purple Light: Repair & Protect</strong></h3><ul><li><strong>Function:</strong> Scalp restoration and barrier rehabilitation.</li><li><strong>The Benefit:</strong> A combination mode that works to heal the scalp surface, restoring the natural skin barrier and soothing sensitive or damaged areas.</li></ul>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
     },
     "1772548012e975415b": {
       "type": "apps",
@@ -172,21 +206,39 @@
         "divider": false
       }
     },
-    "text_and_image_8mXXPJ": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
+    "faq_X8fVwf": {
+      "type": "faq",
+      "blocks": {
+        "question_CCHWCH": {
+          "type": "question",
+          "settings": {
+            "title": "How often should I use the Hair Growth Scalp Massager to see results?",
+            "text": "<p><br/>For the best results, we recommend using the brush for <strong>10–15 minutes daily</strong>. Consistency is key with light therapy; most users begin to notice an improvement in scalp health and hair texture within <strong>4–8 weeks</strong> of regular use.<br/><br/></p>"
+          }
+        },
+        "question_KyCaJb": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use any hair oil or serum in the liquid reservoir?",
+            "text": "<p><br/>Yes! You can use most non-viscous hair growth serums, essential oils (like rosemary or peppermint), or water-based scalp treatments. Just ensure the liquid is not too thick to prevent clogging the distribution teeth, and always clean the reservoir after use.<br/><br/></p>"
+          }
+        },
+        "question_MEgQin": {
+          "type": "question",
+          "settings": {
+            "title": "Is the Light Therapy safe for all hair types?",
+            "text": "<p>Absolutely. Our <strong>Triple-Action LED technology</strong> (Red, Blue, and Purple light) is non-invasive, heat-free, and safe for all hair types, including color-treated or chemically processed hair. It is designed to improve the health of the scalp without causing any damage to the hair strands.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_CCHWCH",
+        "question_KyCaJb",
+        "question_MEgQin"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
       "settings": {
-        "image": "shopify://shop_images/3442a4af-1a81-4734-b73e-c45c60a26694.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "How to Use Your LED Scalp Massage Brush",
-        "text": "<h3><strong>Step 1: Fill the Reservoir</strong></h3><p>Open the silicone lid on the back of the brush. Add your favorite hair growth serum, essential oil, or hair care liquid into the reservoir.</p><p><strong>Note:</strong> It is recommended to add no more than <strong>3ml</strong> at a time to ensure smooth distribution.</p><h3><strong>Step 2: Power Up & Select Light Mode</strong></h3><p>Press and hold the <strong>Power Button for 2 seconds</strong> to turn on the color light mode.</p><ul><li>Once it's on, you can <strong>short press</strong> the power button to switch between or adjust the color light settings.</li></ul><h3><strong>Step 3: Activate the Massage Function</strong></h3><p>To start the relaxing scalp massage, <strong>short press the Gear Adjustment button</strong>. This activates the <strong>kneading function</strong>, which helps the brush mimic a manual scalp massage while distributing the oil.</p><h3><strong>Step 4: Power Off</strong></h3><p>When you are finished with your treatment, simply press and hold the <strong>Power Button for 2 seconds</strong> to turn off the device.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
+        "title": "FAQs"
       }
     }
   },
@@ -195,9 +247,11 @@
     "sub",
     "product-recommendations",
     "collection-return",
+    "text_and_image_8mXXPJ",
     "blocks_yxzd9N",
+    "text_and_image_pYYicx",
     "1772548012e975415b",
     "text_with_icons_cDxdFz",
-    "text_and_image_8mXXPJ"
+    "faq_X8fVwf"
   ]
 }
