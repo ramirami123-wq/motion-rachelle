@@ -125,6 +125,41 @@
       "name": "Marquee",
       "settings": {}
     },
+    "faq_8NKqt6": {
+      "type": "faq",
+      "blocks": {
+        "question_RhwnEi": {
+          "type": "question",
+          "settings": {
+            "title": "Will this concealer look cakey or dry on my skin?",
+            "text": "<p>Not at all! The Hydrating Concealer Stick has a creamy, moisturizing formula that blends smoothly into the skin, giving you a natural, flawless finish without cracking or dryness.</p>"
+          }
+        },
+        "question_9mEKT9": {
+          "type": "question",
+          "settings": {
+            "title": "Does it provide full coverage for dark circles and blemishes?",
+            "text": "<p>Yes! It delivers buildable coverage that effectively hides dark circles, redness, and imperfections while still looking lightweight and natural</p>"
+          }
+        },
+        "question_YC4MXG": {
+          "type": "question",
+          "settings": {
+            "title": "Is it easy to use for quick everyday makeup?",
+            "text": "<p>Absolutely! The stick design makes it super easy to apply directly on the skin and blend in seconds—perfect for fast, on-the-go touch-ups anytime.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_RhwnEi",
+        "question_9mEKT9",
+        "question_YC4MXG"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "FAQs"
+      }
+    },
     "1772548012e975415b": {
       "type": "apps",
       "blocks": {
@@ -198,6 +233,7 @@
     "collection-return",
     "text_and_image_gLhc6i",
     "blocks_yxzd9N",
+    "faq_8NKqt6",
     "1772548012e975415b",
     "text_with_icons_cDxdFz"
   ]
