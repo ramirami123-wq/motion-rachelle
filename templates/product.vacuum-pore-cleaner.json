@@ -188,6 +188,41 @@
         "button_link": "",
         "divider": false
       }
+    },
+    "faq_kkDabT": {
+      "type": "faq",
+      "blocks": {
+        "question_gR9dan": {
+          "type": "question",
+          "settings": {
+            "title": "What is the Vacuum Pore Cleaner?",
+            "text": "<p>The Vacuum Pore Cleaner is a skincare device that uses gentle suction to remove blackheads, dirt, and excess oil from your pores, leaving your skin clean and refreshed.</p>"
+          }
+        },
+        "question_KFrbRG": {
+          "type": "question",
+          "settings": {
+            "title": "How do I use it?",
+            "text": "<p>Start with clean, slightly warm skin (after a shower or steam). Turn on the device, choose the desired suction level, and move it slowly across your face without staying too long in one spot.</p>"
+          }
+        },
+        "question_K9RhXL": {
+          "type": "question",
+          "settings": {
+            "title": "Is it safe for sensitive skin?",
+            "text": "<p>Yes, it can be used on sensitive skin, but it’s recommended to use the lowest suction level and test on a small area first to avoid irritation.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_gR9dan",
+        "question_KFrbRG",
+        "question_K9RhXL"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "FAQs"
+      }
     }
   },
   "order": [
@@ -198,6 +233,7 @@
     "blocks_yxzd9N",
     "text_and_image_KeCmG9",
     "1772548012e975415b",
+    "faq_kkDabT",
     "text_with_icons_cDxdFz"
   ]
 }
