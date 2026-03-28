@@ -249,6 +249,41 @@
         "full_width": false,
         "space_around": true
       }
+    },
+    "faq_kEWmQC": {
+      "type": "faq",
+      "blocks": {
+        "question_zBHMHb": {
+          "type": "question",
+          "settings": {
+            "title": "3-in-1 Hair Dryer Brush",
+            "text": "<p>It means the tool works as a hair dryer, straightener, and volumizer (or curler<strong>) </strong>all in one device—so you don’t need multiple tools. </p>"
+          }
+        },
+        "question_jaNGfy": {
+          "type": "question",
+          "settings": {
+            "title": "Does it reduce frizz?",
+            "text": "<p><br/>Yes! Most 3-in-1 brushes use ionic technology that helps reduce frizz, static, and adds shine. <br/><br/></p>"
+          }
+        },
+        "question_xL8BJc": {
+          "type": "question",
+          "settings": {
+            "title": "Is it safe for all hair types?",
+            "text": "<p><br/>Yes, it works on <strong>straight, wavy, curly, thick, and fine hair,</strong> thanks to adjustable heat settings. <br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_zBHMHb",
+        "question_jaNGfy",
+        "question_xL8BJc"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "FAQs"
+      }
     }
   },
   "order": [
@@ -259,6 +294,7 @@
     "text_and_image_Vnj3fi",
     "blocks_yxzd9N",
     "text_and_image_nmdj3e",
+    "faq_kEWmQC",
     "1772548012e975415b",
     "text_with_icons_cDxdFz",
     "1773961031ed343567"
