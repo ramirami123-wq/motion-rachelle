@@ -141,6 +141,41 @@
         "divider": false
       }
     },
+    "faq_X8fVwf": {
+      "type": "faq",
+      "blocks": {
+        "question_CCHWCH": {
+          "type": "question",
+          "settings": {
+            "title": "How often should I use the Hair Growth Scalp Massager to see results?",
+            "text": "<p><br/>For the best results, we recommend using the brush for <strong>10–15 minutes daily</strong>. Consistency is key with light therapy; most users begin to notice an improvement in scalp health and hair texture within <strong>4–8 weeks</strong> of regular use.<br/><br/></p>"
+          }
+        },
+        "question_KyCaJb": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use any hair oil or serum in the liquid reservoir?",
+            "text": "<p><br/>Yes! You can use most non-viscous hair growth serums, essential oils (like rosemary or peppermint), or water-based scalp treatments. Just ensure the liquid is not too thick to prevent clogging the distribution teeth, and always clean the reservoir after use.<br/><br/></p>"
+          }
+        },
+        "question_MEgQin": {
+          "type": "question",
+          "settings": {
+            "title": "Is the Light Therapy safe for all hair types?",
+            "text": "<p>Absolutely. Our <strong>Triple-Action LED technology</strong> (Red, Blue, and Purple light) is non-invasive, heat-free, and safe for all hair types, including color-treated or chemically processed hair. It is designed to improve the health of the scalp without causing any damage to the hair strands.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_CCHWCH",
+        "question_KyCaJb",
+        "question_MEgQin"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "FAQs"
+      }
+    },
     "1772548012e975415b": {
       "type": "apps",
       "blocks": {
@@ -205,41 +240,6 @@
         "button_link": "",
         "divider": false
       }
-    },
-    "faq_X8fVwf": {
-      "type": "faq",
-      "blocks": {
-        "question_CCHWCH": {
-          "type": "question",
-          "settings": {
-            "title": "How often should I use the Hair Growth Scalp Massager to see results?",
-            "text": "<p><br/>For the best results, we recommend using the brush for <strong>10–15 minutes daily</strong>. Consistency is key with light therapy; most users begin to notice an improvement in scalp health and hair texture within <strong>4–8 weeks</strong> of regular use.<br/><br/></p>"
-          }
-        },
-        "question_KyCaJb": {
-          "type": "question",
-          "settings": {
-            "title": "Can I use any hair oil or serum in the liquid reservoir?",
-            "text": "<p><br/>Yes! You can use most non-viscous hair growth serums, essential oils (like rosemary or peppermint), or water-based scalp treatments. Just ensure the liquid is not too thick to prevent clogging the distribution teeth, and always clean the reservoir after use.<br/><br/></p>"
-          }
-        },
-        "question_MEgQin": {
-          "type": "question",
-          "settings": {
-            "title": "Is the Light Therapy safe for all hair types?",
-            "text": "<p>Absolutely. Our <strong>Triple-Action LED technology</strong> (Red, Blue, and Purple light) is non-invasive, heat-free, and safe for all hair types, including color-treated or chemically processed hair. It is designed to improve the health of the scalp without causing any damage to the hair strands.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "question_CCHWCH",
-        "question_KyCaJb",
-        "question_MEgQin"
-      ],
-      "name": "t:sections.faq.presets.faq.name",
-      "settings": {
-        "title": "FAQs"
-      }
     }
   },
   "order": [
@@ -250,8 +250,8 @@
     "text_and_image_8mXXPJ",
     "blocks_yxzd9N",
     "text_and_image_pYYicx",
+    "faq_X8fVwf",
     "1772548012e975415b",
-    "text_with_icons_cDxdFz",
-    "faq_X8fVwf"
+    "text_with_icons_cDxdFz"
   ]
 }
