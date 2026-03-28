@@ -79,11 +79,11 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/1756539319_phpvlvpg5r2mupqae1ybJ1.webp",
+        "image": "shopify://shop_images/IMG_1277.jpg",
         "image_width": 700,
         "subtitle": "",
-        "title": "The Ultimate 3-in-1 Hair Dryer Brush",
-        "text": "<p><br/>Effortlessly achieve a salon-quality blowout at home with the <strong>SilkFlow</strong>. This all-in-one styling tool combines the power of a dryer with the precision of a round brush, allowing you to dry, smooth, and add incredible volume in a single step. Designed to glide through hair with ease, it leaves your locks looking healthy, vibrant, and full of life.<br/><br/></p>",
+        "title": "Revolutionize Your Morning Routine: The All-in-One Styler",
+        "text": "<p><strong>Effortless Salon Blowouts at Home</strong></p><p><strong>Dry, style, and smooth your hair in one single step.</strong> This professional-grade hot air brush combines the power of a dryer with the precision of a styler to deliver high-volume, frizz-free results in half the time.</p><p>Featuring <strong>negative ion technology</strong> and a unique <strong>ceramic-coated oval design</strong>, it protects your hair from heat damage while boosting shine. With three adjustable heat settings and a 360° swivel cord, achieving a smooth, bouncy finish has never been easier or faster.<br/></p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -124,6 +124,23 @@
       ],
       "name": "Marquee",
       "settings": {}
+    },
+    "text_and_image_nmdj3e": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/IMG_1274.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "How to Use for Best Results",
+        "text": "<p>• <strong>Damp Hair</strong>: For the most efficient styling, use the brush on hair that is about 80% dry.</p><p>• <strong>Sectioning</strong>: Divide your hair into small, manageable sections to ensure the heat penetrates evenly from root to tip.</p><p>• <strong>Volumizing</strong>: To create lift, place the brush at the roots under a section of hair and hold for several seconds before gliding downward.</p><p>• <strong>Smoothing</strong>: Slowly pull the brush through to the ends; the tension from the bristles helps to eliminate frizz and create a polished look.</p><p>• <strong>Curling</strong>: Rotate the brush inward or outward at the very ends of your hair to create a soft \"flip\" or a gentle curl.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
     },
     "1772548012e975415b": {
       "type": "apps",
@@ -231,23 +248,6 @@
       "settings": {
         "full_width": false,
         "space_around": true
-      }
-    },
-    "text_and_image_nmdj3e": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/IMG_1274.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "How to Use for Best Results",
-        "text": "<p>• <strong>Damp Hair</strong>: For the most efficient styling, use the brush on hair that is about 80% dry.</p><p>• <strong>Sectioning</strong>: Divide your hair into small, manageable sections to ensure the heat penetrates evenly from root to tip.</p><p>• <strong>Volumizing</strong>: To create lift, place the brush at the roots under a section of hair and hold for several seconds before gliding downward.</p><p>• <strong>Smoothing</strong>: Slowly pull the brush through to the ends; the tension from the bristles helps to eliminate frizz and create a polished look.</p><p>• <strong>Curling</strong>: Rotate the brush inward or outward at the very ends of your hair to create a soft \"flip\" or a gentle curl.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
       }
     }
   },
