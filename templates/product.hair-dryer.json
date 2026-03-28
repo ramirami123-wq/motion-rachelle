@@ -232,6 +232,23 @@
         "full_width": false,
         "space_around": true
       }
+    },
+    "text_and_image_nmdj3e": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/IMG_1274.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "How to Use for Best Results",
+        "text": "<p>• <strong>Damp Hair</strong>: For the most efficient styling, use the brush on hair that is about 80% dry.</p><p>• <strong>Sectioning</strong>: Divide your hair into small, manageable sections to ensure the heat penetrates evenly from root to tip.</p><p>• <strong>Volumizing</strong>: To create lift, place the brush at the roots under a section of hair and hold for several seconds before gliding downward.</p><p>• <strong>Smoothing</strong>: Slowly pull the brush through to the ends; the tension from the bristles helps to eliminate frizz and create a polished look.</p><p>• <strong>Curling</strong>: Rotate the brush inward or outward at the very ends of your hair to create a soft \"flip\" or a gentle curl.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -241,6 +258,7 @@
     "collection-return",
     "text_and_image_Vnj3fi",
     "blocks_yxzd9N",
+    "text_and_image_nmdj3e",
     "1772548012e975415b",
     "text_with_icons_cDxdFz",
     "1773961031ed343567"
