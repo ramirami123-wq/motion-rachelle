@@ -16,6 +16,10 @@
           "type": "price",
           "settings": {}
         },
+        "quantity_selector_NyJ4fk": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -40,6 +44,7 @@
       },
       "block_order": [
         "price",
+        "quantity_selector_NyJ4fk",
         "variant_picker",
         "buy_buttons",
         "description"
@@ -74,6 +79,23 @@
       "type": "collection-return",
       "disabled": true,
       "settings": {}
+    },
+    "text_and_image_4YkkR4": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/IMG_1007.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Fight For all kinds of skin problems",
+        "text": "<p>Wrinkle Face Massager. It is a handheld skincare device designed to target and reduce the appearance of wrinkles and fine lines on the face and neck. It can be used around the eyes, forehead, mouth, and jawline to help improve skin firmness and smoothness. The massager is intended to support anti-aging skincare by promoting a more lifted, youthful-looking complexion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
     },
     "blocks_yxzd9N": {
       "type": "_blocks",
@@ -121,23 +143,6 @@
         "button_style": "primary",
         "align_text": "left",
         "layout": "left",
-        "divider": false
-      }
-    },
-    "text_and_image_4YkkR4": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/IMG_1007.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Fight For all kinds of skin problems",
-        "text": "<p>Wrinkle Face Massager. It is a handheld skincare device designed to target and reduce the appearance of wrinkles and fine lines on the face and neck. It can be used around the eyes, forehead, mouth, and jawline to help improve skin firmness and smoothness. The massager is intended to support anti-aging skincare by promoting a more lifted, youthful-looking complexion.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
         "divider": false
       }
     },
