@@ -16,6 +16,10 @@
           "type": "price",
           "settings": {}
         },
+        "quantity_selector_fwrDkH": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -40,6 +44,7 @@
       },
       "block_order": [
         "price",
+        "quantity_selector_fwrDkH",
         "variant_picker",
         "buy_buttons",
         "description"
@@ -141,6 +146,41 @@
         "divider": false
       }
     },
+    "faq_dCLkUE": {
+      "type": "faq",
+      "blocks": {
+        "question_3ntTJR": {
+          "type": "question",
+          "settings": {
+            "title": "How long does it take to heat up?",
+            "text": "<p><br/>Most wireless hair straighteners heat up quickly, usually within 30 to 60 seconds, allowing you to start styling almost immediately<br/><br/></p>"
+          }
+        },
+        "question_VhnnWV": {
+          "type": "question",
+          "settings": {
+            "title": "Is it suitable for all hair types?",
+            "text": "<p>Yes, it can work on most hair types, but it is especially effective for fine to medium hair. For very thick or curly hair, it may be better for touch-ups rather than full straightening.</p><p></p>"
+          }
+        },
+        "question_fJkwR4": {
+          "type": "question",
+          "settings": {
+            "title": "Is it safe to carry in a bag?",
+            "text": "<p><br/>Yes, most wireless straighteners are designed with safety features like heat protection and auto shut-off, making them safe to carry once cooled down.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_3ntTJR",
+        "question_VhnnWV",
+        "question_fJkwR4"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "FAQs"
+      }
+    },
     "1772548012e975415b": {
       "type": "apps",
       "blocks": {
@@ -204,41 +244,6 @@
         "button_label": "",
         "button_link": "",
         "divider": false
-      }
-    },
-    "faq_dCLkUE": {
-      "type": "faq",
-      "blocks": {
-        "question_3ntTJR": {
-          "type": "question",
-          "settings": {
-            "title": "How long does it take to heat up?",
-            "text": "<p><br/>Most wireless hair straighteners heat up quickly, usually within 30 to 60 seconds, allowing you to start styling almost immediately<br/><br/></p>"
-          }
-        },
-        "question_VhnnWV": {
-          "type": "question",
-          "settings": {
-            "title": "Is it suitable for all hair types?",
-            "text": "<p>Yes, it can work on most hair types, but it is especially effective for fine to medium hair. For very thick or curly hair, it may be better for touch-ups rather than full straightening.</p><p></p>"
-          }
-        },
-        "question_fJkwR4": {
-          "type": "question",
-          "settings": {
-            "title": "Is it safe to carry in a bag?",
-            "text": "<p><br/>Yes, most wireless straighteners are designed with safety features like heat protection and auto shut-off, making them safe to carry once cooled down.<br/><br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "question_3ntTJR",
-        "question_VhnnWV",
-        "question_fJkwR4"
-      ],
-      "name": "t:sections.faq.presets.faq.name",
-      "settings": {
-        "title": "FAQs"
       }
     }
   },
