@@ -25,58 +25,6 @@
         "parallax": false
       }
     },
-    "fading_images_gEXzF6": {
-      "type": "fading-images",
-      "blocks": {
-        "image_gWKbmc": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Wow.jpg",
-            "focal_point": "center center",
-            "slide_title1": "Discover Your Beauty",
-            "slide_title2": "with SOLVA"
-          }
-        },
-        "image_UBqpcp": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/hero2_a831d7a5-2a58-46c0-a11e-9e4a927686f9.jpg",
-            "focal_point": "center center",
-            "slide_title1": "Get Clear, Glowing Skin",
-            "slide_title2": "Easy Skincare at home in minutes"
-          }
-        },
-        "image_YHMVHX": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/hero1_efa72a6d-db46-4323-9baf-24c2ebd66a83.jpg",
-            "focal_point": "center center",
-            "slide_title1": "Revitalize Your Hair Routine",
-            "slide_title2": "Shop Premium Styling Tools"
-          }
-        }
-      },
-      "block_order": [
-        "image_gWKbmc",
-        "image_UBqpcp",
-        "image_YHMVHX"
-      ],
-      "name": "t:sections.fading-images.presets.fading_image_hero.name",
-      "settings": {
-        "title_lines": "2",
-        "title_font": "body",
-        "title_size": 45,
-        "title_color": "#ffffff",
-        "title_bg_color": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "link": "",
-        "slide_speed": 5,
-        "color_overlay": "#000000",
-        "color_overlay_opacity": 30,
-        "desktop_height": "650px",
-        "mobile_height": "auto"
-      }
-    },
     "featured_collection_eLgELy": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.featured_collection.name",
@@ -322,7 +270,6 @@
   },
   "order": [
     "background_image_text_kQBCRa",
-    "fading_images_gEXzF6",
     "featured_collection_eLgELy",
     "blocks_K6P7G4",
     "text_and_image_rLLrnU",
