@@ -154,7 +154,7 @@
           "main_menu_link_list": "main-menu",
           "main_menu_alignment": "center-left",
           "header_sticky": true,
-          "sticky_index": true,
+          "sticky_index": false,
           "sticky_collection": false,
           "show_announcement": true,
           "announcement_text": "Hot Sales during this month",
