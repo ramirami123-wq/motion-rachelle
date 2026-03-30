@@ -61,23 +61,6 @@
         "mobile_height": "auto"
       }
     },
-    "text_and_image_rLLrnU": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/Gemini_Generated_Image_77tlrw77tlrw77tl.png",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "What Our Customers Got",
-        "text": "<p>Our customers love seeing their frizz disappear in minutes. The \"before and after\" results are the reason thousands have made Solva a part of their daily routine.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
-    },
     "featured_collection_eLgELy": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.featured_collection.name",
@@ -90,66 +73,63 @@
         "divider": false
       }
     },
-    "fading_images_mnQWUR": {
-      "type": "fading-images",
+    "blocks_K6P7G4": {
+      "type": "_blocks",
       "blocks": {
-        "image_rdhHBT": {
-          "type": "image",
+        "ai_gen_block_e7a1f2f_eqDEDi": {
+          "type": "ai_gen_block_e7a1f2f",
           "settings": {
-            "image": "shopify://shop_images/29b41e82ebcb4aca7e9605dea462ad8c.jpg",
-            "focal_point": "center center",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
-        "image_aAdC76": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Wow.jpg",
-            "focal_point": "center center",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
-        "image_EJdEwY": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Beauty_Designed_for_You.jpg",
-            "focal_point": "center center",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
-        },
-        "image_63CF43": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Escova_Massageadora.jpg",
-            "focal_point": "center center",
-            "slide_title1": "",
-            "slide_title2": ""
-          }
+            "title": "Results",
+            "font_size": 32,
+            "font_weight": "500",
+            "text_alignment": "center",
+            "text_color": "#1c1d1d",
+            "padding_top": 5,
+            "padding_bottom": 5,
+            "padding_horizontal": 0,
+            "desktop_width_percent": 100
+          },
+          "blocks": {}
         }
       },
       "block_order": [
-        "image_rdhHBT",
-        "image_aAdC76",
-        "image_EJdEwY",
-        "image_63CF43"
+        "ai_gen_block_e7a1f2f_eqDEDi"
       ],
-      "name": "t:sections.fading-images.presets.fading_image_hero.name",
+      "name": "Marquee",
+      "settings": {}
+    },
+    "text_and_image_rLLrnU": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "title_lines": "2",
-        "title_font": "body",
-        "title_size": 45,
-        "title_color": "#ffffff",
-        "title_bg_color": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "link": "",
-        "slide_speed": 5,
-        "color_overlay": "#000000",
-        "color_overlay_opacity": 30,
-        "desktop_height": "650px",
-        "mobile_height": "auto"
+        "image": "shopify://shop_images/Gemini_Generated_Image_77tlrw77tlrw77tl.png",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "",
+        "text": "<p>Our customers love seeing their frizz disappear in minutes. The \"before and after\" results are the reason thousands have made Solva a part of their daily routine.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "text_and_image_XVPYx6": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/result1.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "",
+        "text": "<p>Our customers love seeing their frizz disappear in minutes. The \"before and after\" results are the reason thousands have made Solva a part of their daily routine.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
       }
     },
     "blocks_R7BnNx": {
@@ -326,9 +306,10 @@
   },
   "order": [
     "fading_images_gEXzF6",
-    "text_and_image_rLLrnU",
     "featured_collection_eLgELy",
-    "fading_images_mnQWUR",
+    "blocks_K6P7G4",
+    "text_and_image_rLLrnU",
+    "text_and_image_XVPYx6",
     "blocks_R7BnNx",
     "rich_text_icmLMW",
     "blocks_AAEAd4",

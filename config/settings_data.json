@@ -51,6 +51,8 @@
     "animate_images_style": "zoom-fade",
     "animate_buttons": true,
     "animate_underlines": true,
+    "product_save_type": "dollar",
+    "quick_shop_enable": false,
     "cart_type": "drawer",
     "social_facebook_link": "https://www.facebook.com/profile.php?id=61552409667554&mibextid=wwXIfr&rdid=95eLbJ3tpifYbW5w&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1EM2uNQjDX%2F%3Fmibextid%3DwwXIfr#",
     "social_instagram_link": "https://www.instagram.com/solva_soft_glow/",
