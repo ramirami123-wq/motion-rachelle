@@ -161,14 +161,14 @@
           "type": "question",
           "settings": {
             "title": "Does it reduce frizz?",
-            "text": "<p><br/>Yes! Most 3-in-1 brushes use ionic technology that helps reduce frizz, static, and adds shine. <br/><br/></p>"
+            "text": "<p><br/>Yes! it uses ionic technology that helps reduce frizz, static, and adds shine. <br/><br/></p>"
           }
         },
         "question_xL8BJc": {
           "type": "question",
           "settings": {
             "title": "Is it safe for all hair types?",
-            "text": "<p><br/>Yes, it works on <strong>straight, wavy, curly, thick, and fine hair,</strong> thanks to adjustable heat settings. <br/><br/></p>"
+            "text": "<p><br/>Yes, it works on <strong>straight, wavy, curly, thick, and fine hair</strong><br/><br/></p>"
           }
         }
       },
