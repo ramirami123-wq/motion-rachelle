@@ -165,7 +165,7 @@
             "background_color": "#a60e0e",
             "text_color": "#ffffff",
             "separator_color": "#ffffff",
-            "font_size": 30,
+            "font_size": 18,
             "font_weight": "500",
             "text_transform": false,
             "padding_vertical": 8,
