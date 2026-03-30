@@ -25,6 +25,57 @@
         "parallax": false
       }
     },
+    "text_and_image_paHjWf": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Gemini_Generated_Image_kehof5kehof5keho.png",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "text_and_image_JYzAJK": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/catalogue2.jpg",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "text_and_image_GwNR96": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/catalogue3.jpg",
+        "image_width": 450,
+        "subtitle": "",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
     "blocks_K6P7G4": {
       "type": "_blocks",
       "blocks": {
@@ -258,6 +309,9 @@
   },
   "order": [
     "background_image_text_kQBCRa",
+    "text_and_image_paHjWf",
+    "text_and_image_JYzAJK",
+    "text_and_image_GwNR96",
     "blocks_K6P7G4",
     "text_and_image_rLLrnU",
     "text_and_image_XVPYx6",
