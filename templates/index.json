@@ -9,6 +9,22 @@
  */
 {
   "sections": {
+    "background_image_text_kQBCRa": {
+      "type": "background-image-text",
+      "name": "t:sections.background-image-text.presets.large_image_with_text_box.name",
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large image with text box",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/first_image.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 550,
+        "parallax": true
+      }
+    },
     "fading_images_gEXzF6": {
       "type": "fading-images",
       "blocks": {
@@ -305,6 +321,7 @@
     }
   },
   "order": [
+    "background_image_text_kQBCRa",
     "fading_images_gEXzF6",
     "featured_collection_eLgELy",
     "blocks_K6P7G4",
