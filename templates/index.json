@@ -176,8 +176,8 @@
             "font_size": 18,
             "font_weight": "500",
             "text_transform": false,
-            "padding_vertical": 16,
-            "item_spacing": 40
+            "padding_vertical": 8,
+            "item_spacing": 30
           },
           "blocks": {}
         }
@@ -239,6 +239,18 @@
       ],
       "name": "Marquee",
       "settings": {}
+    },
+    "featured_collection_eNXeyN": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "Best sellers",
+        "home_featured_products": "all-product",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
     },
     "faq_hd9KM6": {
       "type": "faq",
@@ -340,6 +352,7 @@
     "blocks_R7BnNx",
     "rich_text_icmLMW",
     "blocks_AAEAd4",
+    "featured_collection_eNXeyN",
     "faq_hd9KM6",
     "text_with_icons_jYRQxY"
   ]
