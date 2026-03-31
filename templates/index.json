@@ -139,6 +139,38 @@
         "divider": false
       }
     },
+    "fading_images_B4BdUG": {
+      "type": "fading-images",
+      "blocks": {
+        "image_g33QYw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/hair_dryer_and_styler.webp",
+            "focal_point": "center center",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_g33QYw"
+      ],
+      "name": "t:sections.fading-images.presets.fading_image_hero.name",
+      "settings": {
+        "title_lines": "2",
+        "title_font": "body",
+        "title_size": 45,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "text_and_image_XVPYx6": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -348,6 +380,7 @@
     "text_and_image_GwNR96",
     "blocks_K6P7G4",
     "text_and_image_rLLrnU",
+    "fading_images_B4BdUG",
     "text_and_image_XVPYx6",
     "blocks_R7BnNx",
     "rich_text_icmLMW",
