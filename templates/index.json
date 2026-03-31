@@ -122,23 +122,6 @@
       "name": "Marquee",
       "settings": {}
     },
-    "text_and_image_rLLrnU": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image": "shopify://shop_images/Gemini_Generated_Image_77tlrw77tlrw77tl.png",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "",
-        "text": "<p>Our customers love seeing their frizz disappear in minutes. The \"before and after\" results are the reason thousands have made Solva a part of their daily routine.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
-    },
     "fading_images_B4BdUG": {
       "type": "fading-images",
       "blocks": {
@@ -169,6 +152,23 @@
         "color_overlay_opacity": 30,
         "desktop_height": "650px",
         "mobile_height": "auto"
+      }
+    },
+    "text_and_image_rLLrnU": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Gemini_Generated_Image_77tlrw77tlrw77tl.png",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "",
+        "text": "<p>Our customers love seeing their frizz disappear in minutes. The \"before and after\" results are the reason thousands have made Solva a part of their daily routine.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
       }
     },
     "text_and_image_XVPYx6": {
@@ -379,8 +379,8 @@
     "text_and_image_JYzAJK",
     "text_and_image_GwNR96",
     "blocks_K6P7G4",
-    "text_and_image_rLLrnU",
     "fading_images_B4BdUG",
+    "text_and_image_rLLrnU",
     "text_and_image_XVPYx6",
     "blocks_R7BnNx",
     "rich_text_icmLMW",
