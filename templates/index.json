@@ -25,6 +25,27 @@
         "parallax": false
       }
     },
+    "advanced_content_hQxBRF": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_LRGGgE": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div style=\"text-align: center; padding: 20px 0;\"><a href=\"/collections/all\" style=\"display: inline-block; padding: 12px 32px; background-color: #a60e0e; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; transition: background-color 0.3s ease;\">SHOP NOW</a></div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_LRGGgE"
+      ],
+      "name": "t:sections.advanced-content.presets.custom_content.name",
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
     "text_and_image_paHjWf": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
@@ -309,6 +330,7 @@
   },
   "order": [
     "background_image_text_kQBCRa",
+    "advanced_content_hQxBRF",
     "text_and_image_paHjWf",
     "text_and_image_JYzAJK",
     "text_and_image_GwNR96",
