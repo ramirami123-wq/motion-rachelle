@@ -12,9 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "price": {
-          "type": "price",
-          "settings": {}
+        "pumper_bundles_app_block_bundle_tpkRMp": {
+          "type": "shopify://apps/pumper-bundles/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
+          "settings": {
+            "selected_product": "{{product}}",
+            "using_page_builder": false
+          }
         },
         "quantity_selector_NyJ4fk": {
           "type": "quantity_selector",
@@ -43,7 +46,7 @@
         }
       },
       "block_order": [
-        "price",
+        "pumper_bundles_app_block_bundle_tpkRMp",
         "quantity_selector_NyJ4fk",
         "variant_picker",
         "buy_buttons",
