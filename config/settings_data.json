@@ -92,6 +92,18 @@
               "promo_url_2": ""
             }
           },
+          "megamenu_hWTgGf": {
+            "type": "megamenu",
+            "settings": {
+              "menu_item": "",
+              "promo_heading_1": "",
+              "promo_text_1": "",
+              "promo_url_1": "",
+              "promo_heading_2": "",
+              "promo_text_2": "",
+              "promo_url_2": ""
+            }
+          },
           "megamenu_dLJGVU": {
             "type": "megamenu",
             "settings": {
@@ -143,6 +155,7 @@
         },
         "block_order": [
           "megamenu_tHKj6y",
+          "megamenu_hWTgGf",
           "megamenu_dLJGVU",
           "megamenu_MhrDCB",
           "megamenu_FXxqJj",
